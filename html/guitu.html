@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>归途</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2><center>归  途 </center></h2>
+<img src="https://seal32.github.io/images/captain02.jpg">  <font color="silver">原创  |</font>  <a href="https://seal32.github.io">船长</a>  <font color="silver">2020-03-14</font>
+<h3><font face="仿宋" color="CadetBlue" >&emsp;&emsp;来澳洲已经80多天，签证即将到期。前段时间国内新冠肺炎疫情严重，女儿要我们考虑再申请签证续期两个月，我说现在澳大利亚等国家对疫情不太重视，疫情迟早会爆发，而国内防控得力，疫情慢慢得到控制，回国肯定比国外安全。<br>
+&emsp;&emsp;7号早上出发到悉尼机场。受新冠状病毒肺炎疫情的影响，机场旅客明显少了很多。进机场出发大厅前戴上口罩，发现戴口罩的大部分是亚洲人，澳大利亚本地及其它国家旅客、机场工作人员绝大部分还满不在乎的，很少人戴口罩。<br>
+&emsp;&emsp;托运行李后，机场出境没有测体温之类的防疫措施，经自助出关验证、安检后即到达候机楼免税购物区。平时这里都是熙熙攘攘挤满人的，现在寥寥无几。↓<br>
+<center><img src="/images/airport.jpg"></center>
+&emsp;&emsp;走到候机楼登机口，乘坐的南航CZ326航班，是疫情期间唯一保留的悉尼直达中国的航班，之前在南航APP专门花了200元选了经济舱第二排右侧靠边的两个座位（32排），前面是31排及配餐间、洗手间，好处是去洗手间快点且不必经过人群密集区，减少感染的几率。登机时全部人都戴了口罩，但没有测体温。<br>
+&emsp;&emsp;飞机1140（悉尼时间， +11时区）起飞，机上气氛凝重，大家都小心翼翼，轻易不敢脱开口罩。偶尔听到有人咳嗽，个个都绷紧神经，疑神疑鬼。本来想不吃饭的，无奈饿了胃难受，只好匆匆忙忙狼吞虎咽，3分钟内搞掂，吃完马上戴上口罩。看到邻座有几个人全程不吃不喝的，真服了他们。更坑爹的是，佩戴的3M N95口罩设计不合理，挂耳的橡皮绳又薄又紧，一会就勒得耳朵根又痛又肿，不敢脱开，只能时不时调整挂耳位置，强忍疼痛，十几个小时戴着，超级难受。<br> 
+&emsp;&emsp;1800（北京时间,+8时区）到达广州白云机场T2航站楼，大部分国际航班都停飞了，机场人非常少。疫情开始后，海关要求出入境旅客都要进行健康情况申报，好在出发前在微信“海关旅客指尖服务”小程序里预先进行申报（24小时有效）取得二维码，检疫扫二维码、测体温即可快速通过，否则要在现场聚集慢慢填写健康申报卡麻烦且增加感染风险。这次托运了4大箱行李，都是红酒、奶粉、巧克力、饼干之类的，符合海关规定，取行李后走无申报通道直接无须检查出机场。<br>
+&emsp;&emsp;叫了辆出租车,司机说最近生意很差，等了一天才接了我一单，疫情之下大家都不容易。到小区门口，保安仔细查问来历，测体温。我出示了预先在微信“穗康”小程序申报好的“穗康码”，保安不认，说要我扫贴在入口的中国移动/中国电信/中国联通二维码以验证我的行踪。我在国外三个月都没用过国内的手机卡，怎么可能扫到我过去几个月的行踪？保安没办法，只好记录我的“穗康码”放行。一番周折，终于归家！当晚12点，规定所有国外回来的都要在指定酒店隔离14天，庆幸躲过一劫。几天后，欧美等很多西方国家疫情大爆发，澳大利亚疫情也开始蔓延，中国成为最安全的国家，佩服自己有先见之明！归途不易，既然回来了，为己为人，还是自觉居家隔离14天……。</font></h3>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

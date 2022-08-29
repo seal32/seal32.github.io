@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>江西游记</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2><center><font color="SeaGreen">202010江西游记</font></center></h2>
+<img src="https://seal32.github.io/images/captain02.jpg">  <font color="silver">原创  |</font>  <a href="https://seal32.github.io">船长</a>  <font color="silver">2020-10-24</font>
+<p><h3><div style="font-weight:500"><font color="DarkBlue">&emsp;&emsp;2020.10.10，乘坐G86，0800广州南站——1144南昌西站。高铁平稳快速运行，不得不佩服“中国速度”这个国家名片！本来一路上心情大好，谁知邻坐那家伙脱了口罩，口沫横飞，旁若无人，声如洪钟，足足打了3个多小时电话，贯穿列车运行的始终，一点都不顾及车厢其他人的感受，真TM没教养。无奈只好塞上耳机听音乐。到达南昌站后乘地铁2号线辛家庵方向在地铁大厦站4出口下车，沿着世贸路、凤凰中大道步行约1km，入住如家凤凰中大道万达广场店（房间一般，比较旧，好在还算干净）。稍休息后坐出租车去滕王阁。滕王阁位于赣江边，始建于唐永徽四年（公元653年），因唐太宗李世民之弟滕王李元婴始建而得名。后因王勃的《滕王阁序》为后人熟知，与湖北武汉黄鹤楼、湖南岳阳楼并称为“江南三大名楼”。历史上滕王阁先后共重建达29次之多，作为南昌最著名的人文景点还是值得一看的。登上滕王阁，极目远眺，体会古人诗中“落霞与孤鹜齐飞，秋水共长天一色”的感觉……。之后走路去八一南昌起义纪念馆，可惜没提前预约，预约人数已满不能进，只能先预约明天再去。坐地铁1路线1站到八一广场，内建有纪念八一南昌起义的纪念塔。继续坐地铁1号线到秋水广场，在赣江边闲逛，看夕阳西坠，残阳斜照，江水染红，感叹一番即回酒店。【南昌景点：滕王阁（门票45凭身份证入门。附近是江西省博物馆）→南昌八一起义纪念馆（免费）→八一广场（免费）→绳金塔（10元）→天香园（园林，30元）→八大山人纪念馆（10元）。秋水广场（免费，晚上游较好，音乐喷泉时间2000、2050）】<br>
+&emsp;&emsp;10.11， 0800卫东地铁站坐1号线瑶湖西方向八一馆站下，5出口到八一南昌起义纪念馆。人很多，排队半个小时才能进去。进此处纯属因为革命情怀，军旗升起的地方！参观后即回酒店。12点退房到地铁大厦站乘地铁2号线南路方向到南昌西站，乘G1480， 1350南昌西站——1445九江。入住丽怡酒店(九江火车站铜锣湾广场店，该酒店较新，空间大，干净，旁边就是九江汽车站，离九江火车站也不远，交通比较方便)。逛九江景点: 浔阳楼→锁江楼塔。浔阳楼就在长江边，至今已有1200多年的历史，最早见之于唐代江州（今江西九江）刺史韦应物的诗中。随后，白居易在《题浔阳楼》诗中又描写了它周围的景色，而真正使浔阳楼出名的是古典名著《水浒传》。小说中的宋江题反诗、李逵劫法场等故事使浔阳楼名噪天下。旅游有时不在于看景点有多美，也要看景点是否有历史人文故事，是否让你有穿越时空的感觉。登上楼顶，吟诵宋江的反诗：“自幼曾攻经史，长成亦有权谋。恰如猛虎卧荒丘，潜伏爪牙忍受。不幸刺文双颊，那堪配在江州。他年若得报冤仇，血染浔阳江口! 心在山东身在吴，飘蓬江海谩嗟吁。他时若遂凌云志，敢笑黄巢不丈夫!”，不免豪气干云……。<br>
+&emsp;&emsp;10.12，不舒服，头晕晕沉沉的，不想起床吃早餐，睡到中午，起来刷牙、洗澡、洗衣服，再拿房卡去大堂续住多一天……。<br>
+&emsp;&emsp;10.13， 0850在酒店旁边的九江汽车总站坐汽车到庐山牯岭镇，车程一小时左右。车到山脚景区入口，买160元景区门票后坐回原车，直上牯岭镇庐山汽车站。下车后步行十几分钟到香山路，住锦江之星品尚庐山景区香山路云中酒店（房间干净雅致，美中不足的是离景区乘车点较远）。稍休息后开始徒步游览庐山景点：如琴湖（一个琴形的山间湖，湖光山色相映成趣）；花径（电影《庐山恋》中一条两旁开满山花的山路）；白居易草堂；锦绣谷（一条险峻的山谷）；仙人洞（毛主席写的诗“暮色苍茫看劲松，乱云飞渡仍从容。天生一个仙人洞，无限风光在险峰。”所说的仙人洞）；御碑亭（明朝皇帝朱元璋所建，碑上刻着他亲自撰写的《周颠仙人传》和《四仙诗》）；园佛殿（原国民党陆军上将唐生智看中了这里的风水，为安葬其吃斋念佛的母亲所建）；天池塔（建于宋朝）；黄龙寺；天池寺；天心台；文殊台；龙首崖（比较险要难走）；悬索桥；三宝树（三棵千年古树）；乌龙潭；黄龙潭；芦林湖（建造毛主席在庐山居住的芦林1号别墅时挖的人工湖）……。总体来说风景一般，但很多都是历史人文景观，还是值得一游的。实在走不动了，70元通票坐景区车到香山路口站返回住处。<br>
+&emsp;&emsp;10.14，早餐后步行到庐山会议旧址，民国时期所建，国共两党很多重要会议都曾经在此召开；坐景区车去含鄱口，该景点为庐山最著名的景点之一，它宛如游龙，神气活现的横亘在九奇峰和五老峰之间，张着大口似乎要鲸吞鄱阳湖水，故得此名。在此可观奇峰、云海、鄱阳湖日出，可惜当日阴雨无缘得见此景色；植物园，一般的景点，有时间可走走；再坐景区车去三叠泉，该泉因李白的“日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天”诗句而出名，其实为误传，李白诗中所写实际是秀峰瀑布。下车后买80元来回索道票，到站后走很陡的阶梯下去，原路返回更加辛苦，体力不好的就不要去啦，为了看三股很小的飞瀑，不值得，不过来都来了，检验一下自己的毅力也未尝不可；之后到芦林1号毛泽东曾经居住的别墅，现已改为博物馆，附近就是毛泽东诗词苑；最后到美庐蒋介石与宋美龄别墅参观，少有的国共两党领袖都曾经住过的地方，回望历史不免令人唏嘘。累了，回酒店休息。晚上到牯岭街走了一圈，路边那间电影院，几十年如一日的只放映电影《庐山恋》，世间少有……。<br>
+&emsp;&emsp;10.15，秋雨绵绵。在香山路口坐景区车到庐山牯岭镇游客运管中心，0850坐中巴到九江汽车站，步行15分钟到九江火车站，乘高铁1122九江——1235景德镇北。到站后坐出租车去浮梁古城（门票43元）游览。此为江南保存最完好的古县衙，值得一游；古窑博物馆；之后乘高铁，1559景德镇北——1627婺源。店家派车到高铁站接，旅店就在步行街中段，婺源天佑假日酒店(步行街店，破旧有异味，有点后悔订该店)。店家所谓的包接到店其实也是一种套路，司机会游说你包他的车游览婺源各景点，一般一天包车费300元，人多时还是挺合算的，因为婺源景点比较分散，自己坐车去玩不方便。搜索婺源景点: 江湾，篁岭（秋季晒秋）；江岭（春季看油菜花最佳）；石城村（11月枫叶红时摄影最佳）；菊径村（山环水绕的古村）；月亮湾、李坑、长溪村、晓起村……。<br>
+&emsp;&emsp;10.16，下雨。懒得自己坐车折腾，昨晚在飞猪网订了婺源悦途国旅专营店篁岭，李坑，水墨上河一日游，238元包车包门票包导游，比较方便快捷。篁岭缆车上下，很美的徽派古村落，雕梁画栋，有中国文化底蕴，可惜下雨，看不到家家户户晒秋的美景，有点遗憾；午饭后游李坑，一个徽式小桥流水人家的古村；最后游水墨上河，主要为人造景点，不过景色也算可以。个人认为，春天油菜花时节来婺源玩比较合适，只能期待下一次了……。<br>
+&emsp;&emsp;10.17,飞猪网订婺源悦途国旅专营店三清山一日游，198元。同车散客共5人，一对天津的夫妻（？），2个内蒙古呼和浩特市的美女，都是好人，聊得来，能互相迁就。一个多小时后到达，坐缆车上去，考虑时间和体能问题选了中圈线路。开始时雨雾很大什么都看不到，走着走着云开雾散，露出云雾缭绕、奇峰叠彩的真容。三清山没有华山的雄伟险峻，但景色还是很秀美的，青松云海奇石，值得一游……。<br>
+&emsp;&emsp;10.18，原计划去黄山的，考虑到下雨天可能什么都看不成，留待以后吧，改为去井冈山（纯属革命情怀）。婺源步行街西口乘坐4路车到婺源火车站，（20分钟左右）。乘坐D6261 0957婺源——1239南昌。到南昌站后换乘D6293 1333南昌——1645井冈山，硬卧中铺，很久没坐这样的火车了，体验不好。到井冈山出站后可坐98路快线公交车到茨坪镇汽车站，（井冈山景区游览出发的大本营是茨坪镇，98路茨坪总站在茨坪汽车站旁边，20分钟一班，34个站）。坐了一天火车很累不想再挤公交车，叫了一部私车，开价2个人拼车40/人，等一会也等不到第二个人来拼车，干脆一个人60元包车直达茨坪。住井冈山天街客栈（位于茨坪中心区域，天街购物步行街，评价不错）。晚饭在对面的沁园春大酒店吃饭，一个人不知点什么菜好，看到有大小不一的泥鳅，估计不是人工饲养的，点了一盘炸泥鳅（名不虚传大补之物）、一盘苦瓜炒蛋、1碗米饭，共79元，还可以。<br>
+&emsp;&emsp;10.19，早上8点到游客服务中心买门票+景区车票共245元。先到黄洋界，雨雾太大基本上远处的山景都看不到，只看了炮台、制高点、纪念碑等；再到小井红军医院；之后坐景区车到龙潭，走路下去，坐60元的缆车上来，几个山涧飞瀑不错，应该是井冈山最好的自然景观，忍不住吟诗一首：黄洋界上雾气浓，游人寂寥无影踪。龙潭飞瀑今犹在，不见当年井冈红。；之后去大井毛泽东旧居，很多穿红军服的小青年也在那参观学习，早该如此，这比追戏子明星境界高得多；回到服务中心后走路到井冈山烈士陵园，内有纪念碑、题字碑林、雕像群；到茨坪毛泽东故居，伟人在井冈山时期的其中一个居所；最后到博物馆（星期一闭馆没看成）。回旅店休息，预计明天天气不一定好，多留一天也不好玩，决定买今晚的火车票回广州。1700步行到茨坪汽车站附近乘坐98路车，1个多小时后到达火车站，离开车还有很长时间。只有一班慢车:Z385 2028井冈山——0437广州，只有硬座，票价98元。两侧座位是3+3相对的，人很多乱哄哄的，感觉难以坚持坐到广州，问乘务员有没有卧铺，乘务员说只有一个软卧，即时办手续换为软卧，补钱234元，共332元。<br>
+&emsp;&emsp;10.20，凌晨5点多回到广州结束本次旅程。总共花费不到4000元。都是支付宝或微信付款，非常方便。钱不是问题，能不能合理的把钱用掉才是问题，人死之前用了的钱才真正是属于你自己的钱。至于风景好不好那是次要的，关键是享受旅途的过程，旅行也是一个学习、锻炼的过程，这就值了！</font></div><br>
+<center><a href="http://seal32.github.io/html/footprint5.html">点击查看江西游照片</a>
+</center></p>
+
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

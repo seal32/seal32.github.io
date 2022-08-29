@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>weizhoudao</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: "SimSun" Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: justify;
+  word-wrap: break-word !important;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: 600;
+  color: #000;
+  text-align: center;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 600;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 12px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+</head>
+<body>
+<h2>涠洲岛</h2>
+<p><font color="silver">原创  |</font>  <a href="https://seal32.github.io">船长</a>  <font color="silver">2008-09-06</font> </p>
+<p>涠洲岛，位于广西北海市南方30海里的北部湾海面上，该岛呈圆形，直径约8公里，似镶嵌在大海中的一颗绿宝石。在涠洲岛东南方9海里处，有个“斜阳岛”，由红色的砂岩组成，黄昏时在夕阳的映照下，远处望去像半坠海中的太阳。红色的斜阳岛与绿色的涠洲岛遥相呼应，在蓝色的大海衬托下交相辉映，蔚为壮观。</p>
+<p>那年，我们船航经北部湾途中，在涠洲岛附近海域机器发生故障，不得已驶入涠洲岛南湾锚地抛锚检修。当时风和日丽，我莫名的产生了想下海游泳的冲动，一时兴起，对全船广播: 放救生艇，除值班船员外，其他船员可以上艇登岛游玩。全船欢呼，大家争先恐后拥上甲板，几个要值班的年轻船员，为了能够上岸，拿出从广州带来的好酒，好话说尽，求老船员帮忙留船顶班。</p>
+<p>救生艇在南湾沙滩登陆。洁白的海滩成弯月形面向南海北部湾，湾岸上长满仙人掌，海水清澈见底。见此美景，大家迫不及待跳入大海。为安全起见，我们把救生艇锚泊在不远的海中，并拿出充气救生浮床、救生圈，有备无患，以防意外。</p>
+<p><center><a href="https://seal32.github.io/images/weizhoudao.jpg"><img src="https://seal32.github.io/images/weizhoudao.jpg"></a></center></p>
+<p>我随波逐流，任由身体漂浮在海面，眼望蔚蓝的天空，耳听轻轻的海浪拍岸声，那种海为床，天为被的感觉惬意极了！远离烦嚣的都市，纷争的尘世，在这宁静的港湾，与大海融为一体。</p>
+<p>不觉已到下午5点，我们换好衣服，将救生艇绑牢在渔船码头，走进海边小村。当时涠洲岛还没有旅游开发，这个只有一条街道的小渔村，空气中散发着浓浓的鱼腥气味，街道两旁店铺挂满了干货海产品。很多渔民拿着刚从海里捕捞上来的海鲜向我们这些不速之客兜售。船员们买了一大堆海味干货，还有很多新鲜的鱼、虾、螃蟹、海螺等。那时改革开放之风还没刮到这个孤悬海外的小岛，岛上居民与外界接触有限，老实纯朴，对大陆来的客人很热情，卖东西价钱公道，不会宰客，况且我们这些船员出手大方，能说会道，很讨他们喜欢。</p>
+<p>天色渐暗。难得上岸一次，弟兄们买了一大堆海鲜，委托街边的小饭店加工，来个海鲜大餐，免不了喝上几杯。</p>
+<p>晚上10点，曲终人散，返回。起风了，近处漆黑的海面只有几点渔火在闪动，孤零零的随着海浪起伏，远处我们船抛锚的地方灯火通明。小艇渐渐远离，若隐若现的海岛最终消失在夜空中……。</p>
+<p>多年过去，再也没有机会重上涠洲岛。记忆中的美丽海岛，一直萦绕在我脑海中……。</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
