@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MarkdownPad用法备忘</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2><font color="Darkorange"><center>MarkdownPad用法备忘</center></font></h2>
+<img src="/images/captain02.jpg">  <font color="silver">原创  |</font>  <a href="http://www.seal32.cn">船长</a>  <font color="silver">2022-03-26</font>
+<h3><font color="DarkBlue">MarkdownPad是一方便易用的网络文档编辑工具，使用者不需具备太多的编码知识即可轻易的创建.ME格式文本，并将文本导出生成.HTML网页文档，便于在浏览器识读。使用摘要如下：<br><br>字体颜色：<br>
+使用html设置颜色的格式，如下表。其它常用颜色： DarkBlue（深蓝） AliceBlue（爱丽丝蓝）  Aquamarine（海蓝）  Azure （天蓝） AntiqueWhite（古董白）  BlueViolet（紫蓝）  CadetBlue（军蓝）  DarkGoldenRod （暗金黄） Darkorange（深橙）  Blue（蓝色）  DarkRed（深红）  Orange（橙色） SeaGreen（海绿）……<br><br>插入链接和图片：<br>链接：`[]()`  举例：`[如何打造直播频道](http//name.github.io/iptv.html)`<br>图片：`[]()` 举例：`[我的图片](http//name.github.io/1.jpg)`<br><br>换行：方法1: 连续两个空格+回车;方法2：使用html语言换行标签：<code>&lt;br&gt;</code>,连续使用两个<code>&lt;br&gt;&lt;br&gt;</code>为隔一行。<br><br>首行缩进两个字符：<code>&amp;emsp;&amp;emsp;</code> 连续2个即可。 <br><br>横线（分割线）语法是三个***<br><br>生成一个文字框格：连续4击空格键。<br><br>引用：> 举例：> 我在使用引用（引用一段别人的文字，与正文显示颜色不同）<br><br>粗体与斜体：B粗体，I斜体<br><br>转义符号：举例：<code>\* \_ \{} \[] \() \#</code> ……<br><br>快捷键：<br>Ctrl+1(2/3/4……） 标题1/2/3/4……<br>Ctrl+L 超链接<br>Ctrl+G 插入图片<br>Ctrl+R 水平标尺（线）<br> Ctrl+T 时间戳<br>Ctrl+B 粗体<br>   Ctrl+I 斜体<br><br>表格制作代码举例（三行三列，其它类推，字体颜色和底色可根据需要设置）：<br><code>&lt;table&gt;&lt;tbody&gt;</code><br><code>&lt;tr&gt;</code><br><code>&lt;th&gt;姓名&lt;/th&gt;&lt;th&gt;籍贯&lt;/th&gt;&lt;th&gt;民族&lt;/th&gt;</code><br><code>&lt;/tr&gt;</code><br><code>&lt;tr&gt;</code><br><code>&lt;td&gt;&lt;font color=&quot;Hotpink&quot;&gt;张三<br>&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=<br>&quot;Hotpink&quot;&gt;<br>广东&lt;/font&gt;&lt;/td&gt;&lt;td bgcolor=&quot;Hotpink&quot;&gt;<br>汉族&lt;/td&gt;</code><br><code>&lt;/tr&gt;</code><br>    <code>&lt;tr&gt;</code><br><code>&lt;td&gt;&lt;font color=&quot;Pink&quot;&gt;<br>李四&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=<br>&quot;pink&quot;&gt;<br>广西&lt;/font&gt;&lt;/td&gt;&lt;td bgcolor=&quot;pink&quot;&gt;<br>壮族&lt;/td&gt;</code><br><code>&lt;/tr&gt;</code><br><code>&lt;/table&gt;</code><br>生成如下的表格：<br><table><tbody>
+    <tr>
+        <th>姓名</th><th>籍贯</th><th>民族</th>
+    </tr>
+    <tr>
+        <td><font color="Hotpink">张三</font></td><td><font color="Hotpink">广
+东</font></td><td bgcolor="Hotpink">汉族</td>
+    </tr>
+    <tr>
+        <td><font color="Pink">李四</font></td><td><font color="pink">广西
+</font></td><td bgcolor="pink">壮族</td>
+    </tr>
+</table></font></h3>
+
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

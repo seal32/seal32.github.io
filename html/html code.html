@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>html代码结构及使用技巧</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h2><font color="DarkRed"><center>html代码结构及使用技巧</center></font></h2>
+<img src="/images/captain02.jpg">  <font color="silver">原创  |</font>  <a href="http://www.seal32.cn">船长</a>  <font color="silver">2022-03-29</font>
+<h3><div style="font-weight:500">html代码大全/结构性定义：<br>文件类型<code>&lt;html&gt;&lt;/html&gt;</code> （放在档案的开头与结尾）。<br>文件主题<code>&lt;title&gt;&lt;/title&gt;</code> （必须放在「文头」区块内）。<br>文头<code>&lt;head&gt;&lt;/head&gt;</code> （描述性资料，像是「主题」）。<br>文体<code>&lt;boyd&gt;&lt;/boyd&gt;</code> （文件本体）。<br>标题&lt;h?&gt;&lt;/h?&gt; （从1到6，有六层选择）。<br>标题的对齐 <code>&lt;h?align=left|centre|right&gt;&lt;/h?&gt;</code>。<br>区分<code>&lt;div&gt;&lt;/div&gt;</code>。<br>区分的对齐 <code>&lt;div&gt;&lt;aling=left|right|center|justify&gt;&lt;/div&gt;</code>。<br>引文区块<code>&lt;blockquote&gt;&lt;/blockquote&gt;</code>（通常会内缩）。<br>强调<code>&lt;em&gt;&lt;/em&gt;</code>（通常会以斜体显示）。<br>特别强调<code>&lt;strong&gt;&lt;/strong&gt;</code> （通常会以加粗显示）。<br>引文<code>&lt;cite&gt;&lt;/cite&gt;</code> （通常会以斜体显示）。<br>码<code>&lt;code&gt;&lt;/code&gt;</code> （显示原始码之用）。<br>样本<code>&lt;samp&gt;&lt;/samp&gt;</code>。<br>键盘输入<code>&lt;kbd&gt;&lt;/kbd&gt;</code>。<br>变数<code>&lt;var&gt;&lt;/var&gt;</code>。<br>定义<code>&lt;dfn&gt;&lt;/dfn&gt;</code> （有些浏览器不提供）。<br>地址 <code>&lt;address&gt;&lt;/address&gt;</code>。<br>大字<code>&lt;big&gt;&lt;/big&gt;</code>。<br>小字<code>&lt;small&gt;&lt;/small&gt;</code>。<br>加粗<code>&lt;b&gt;&lt;/b&gt;</code>。<br>斜体<code>&lt;i&gt;&lt;/i&gt;</code>。<br>底线<code>&lt;u&gt;&lt;/u&gt;</code> 。<br>删除线<code>&lt;s&gt;&lt;/s&gt;</code>。<br>下标<code>&lt;sub&gt;&lt;/sub&gt;</code>。<br>上标<code>&lt;sup&gt;&lt;/sup&gt;</code>。<br>预定格式<code>&lt;pre&gt;&lt;/pre&gt;</code> （保留文件中空格的大小）。<br>预定格式的宽度<code>&lt;pre width=?&gt;&lt;/pre&gt;</code>（以字元计算）。<br>向中看齐<code>&lt;center&gt;&lt;/center&gt;</code> （文字与图片都可以）。<br>字体大小 <code>&lt;fontsize=?&gt;&lt;/font&gt;</code>（从1到7）。<br>改变字体大小 <code>&lt;fontsize=+|-?&gt;&lt;/font&gt;</code>。<br>基本字体大小 <code>&lt;basefontsize=?&gt;</code> （从1到7; 内定为3）。<br>字体颜色 <code>&lt;fontsize=&quot;#$$&quot;&gt;&lt;/font&gt;</code>（$$为颜色代码）。<br><br>修改页面的实用性HTML代码：<br>1)贴图：<code>&lt;img src=&quot;图片地址&quot;&gt;</code><br><code>&lt;img src=&quot;图片地址&quot; width=&quot;251&quot; height=&quot;350&quot; &gt;</code><br><code>&lt;img src=&quot;图片地址&quot; width=&quot;50%&quot; height=&quot;50%&quot;&gt;</code><br><code>&lt;div align=right&gt;&lt;img src=&quot;图片地址&quot; width=&quot;50%&quot; height=&quot;50%&quot;&gt;&lt;/div&gt;</code> 图片居中<br>2)加入链接：<code>&lt;a href=&quot;所要链接的相关地址&quot;&gt;写上你想写的字&lt;/a&gt;</code><br>3)在新窗口打开链接：<code>&lt;a href=&quot;相关地址” target=&quot;_blank&quot;&gt;写上要写的字&lt;/a&gt;</code><br>4)移动字体(走马灯)：<code>&lt;marquee&gt;写上你想写的字&lt;/marquee&gt;</code><br>5)字体加粗：<code>&lt;b&gt;写上你想写的字&lt;/b&gt;</code><br>6)字体斜体：<code>&lt;i&gt;写上你想写的字&lt;/i&gt;</code><br>7)字体下划线: <code>&lt;u&gt;写上你想写的字&lt;/u&gt;</code><br>8)字体删除线: <code>&lt;s&gt;写上你想写的字&lt;/s&gt;</code><br>9)字体加大: <code>&lt;big&gt;写上你想写的字&lt;/big&gt;</code><br>10)字体控制大小：<code>&lt;h1&gt;写上你想写的字&lt;/h1&gt;</code> (其中字体大小可从h1-h5,h1最大，h5最小)<br>11)更改字体颜色：<code>&lt;font color=&quot;#value&quot;&gt;写上你想写的字&lt;/font&gt;</code>(其中value值在000000与ffffff(16位进制)之间<br>12)消除连接的下划线：<code>&lt;a href=&quot;相关地址&quot; style=&quot;text-decoration:none&quot;&gt;写上你想写的字&lt;/a&gt;</code><br>13)贴音乐：<code>&lt;embed src=&quot;音乐地址&quot; width=&quot;宽度&quot; height=&quot;高度&quot; autostart=false&gt;</code><br>14)贴flash:     &lt;embed src=&quot;flash地址&quot; width=&quot;宽度&quot; height=&quot;&quot;高度&quot;&gt;<br>15)贴影视文件：<code>&lt;img dynsrc=&quot;文件地址&quot; width=&quot;宽度&quot; height=&quot;高度&quot; start=mouseover&gt;</code><br>16)换行：<code>&lt;br&gt;</code><br>17)段落：<code>&lt;p&gt;段落&lt;/p&gt;</code><br>18)原始文字样式：<code>&lt;pre&gt;正文&lt;/pre&gt;</code><br>19)换帖子背景：<code>&lt;body background=”背景图片地址”&gt;</code> （MarkdownPad不支持）<br>20)定制帖子背景颜色：<code>&lt;body bgcolor=&quot;#value&quot;&gt;</code>(value颜色值）（MarkdownPad不支持）<br>21)帖子背景音乐：<code>&lt;bgsound=&quot;背景音乐地址&quot; loop=infinite&gt;</code><br>22)贴网页：<code>&lt;iframe. src=&quot;相关地址&quot; width=&quot;宽度&quot; height=&quot;高度&quot;&gt;&lt;/iframe&gt;</code><br><br>几个技巧：<br><code>&lt;body nselectstart=&quot;return false&quot;&gt;</code> 取消选取、防止复制<br><code>oncopy=&quot;return false;&quot; ncut=&quot;return false;&quot;</code> 防止复制<br><code>&lt;noscript&gt;&lt;iframe.src=*.html&gt;&lt;/iframe&gt;&lt;/noscript&gt;</code> 网页不能被另存为</div></font></h3><br>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->

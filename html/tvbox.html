@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>文档总目录</title>
+<title>观影看剧神器—TVBox</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <style type="text/css">
 /* RESET
@@ -291,61 +291,30 @@ img {
   max-width: 100%
 }
 </style>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.5, user-scalable=yes" />
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
 </head>
 <body>
-<h2>CAPTAIN 个人网站文章总目录</h2>
-<p><img src="/images/captain02.jpg">  <font color="silver">| 船长  | 原创 |</font>  <a href="https://seal32.github.io/">个人主页: https://seal32.github.io/</a></p>
-<h3>
-<a href="/html/xinjiang.html">202309新疆游</a><br>
-<a href="/html/202306yangshuotubu.html">202306阳朔徒步</a><br>
-<a href="/html/liuzhou.html">柳州山水</a><br>
-<a href="/html/fangchenggang.html">防城港旅行日记</a><br>
-<a href="/html/niumuxian.html">牛木线徒步</a><br>
-<a href="/html/yingxifenglin.html">英西峰林徒步</a><br>
-<a href="/html/yangshuo2.html">阳朔徒步2</a><br>
-<a href="/html/jiangxi.html">江西自由行日记</a><br>
-<a href="/html/shanxihenan.html">陕西-河南自由行日记</a><br>
-<a href="/html/heilongjiang.html">哈尔滨-雪谷-雪乡游记</a><br>
-<a href="/html/longji.html">龙脊梯田游记</a><br>
-<a href="/html/zhangjiajie.html">张家界游记</a><br>
-<a href="/html/yunnan.html">云南-贵阳-柳州游记</a><br>
-<a href="/html/xibei.html">西北三省旅行日记</a><br>
-<a href="/html/xiangqiao.html">鹿寨香桥一日游</a><br>
-<a href="/html/wuhan.html">武汉闲逛</a><br>
-<a href="/html/sanmenjiang.html">三门江森林公园</a><br>
-<a href="/html/panlongshan.html">蟠龙山</a><br>
-<a href="/html/gutingshan.html">古亭山</a><br>
-<a href="/html/rongshui.html">融水行</a><br>
-<a href="/html/baiyunshan.html">梧州白云山</a><br>
-<a href="/html/xishan.html">桂平西山</a><br>
-<a href="/html/fjd.html">放鸡岛</a><br>
-<a href="/html/nzd.html">硇洲岛</a><br>
-<a href="/html/guishandao.html">桂山岛</a><br>
-<a href="/html/weizhoudao.html">涠洲岛</a><br>
-<a href="/html/lrs.html">老人山</a><br>
-<hr></hr>
+<h2>观影看剧神器—TVBox</h2>
+<p><img src="/images/captain02.jpg">  <font color="silver">原创  |</font>  <a href="http://www.seal32.cn">船长</a>  <font color="silver">2022-08-20</font></p>
+<p>无所事事，闲着也是闲着，继续学习折腾有关影视播放软件。</p>
+<p>近来很火的TVBox是GitHub社区根据官方开源代码仓生成的安卓应用，它移植了原来猫影视V6的内核, 无缝对接电视直播、影视剧点播站源规则,可以安装在手机、网络机顶盒、电视、平板电脑等安卓设备中，是目前的看片神器，关键是无需注册账号，无广告，免费！</p>
+<p>TVBox软件及源码：可自行在github.com搜索，下载安装最新版tvbox app。此为空壳软件，无预置内容，需要自己设置：↓</p>
+<p>方法1（网络接口）：打开软件，点“设置”，在“配置地址”输入网上大神们提供的网络配置接口，“首页数据源”选自己喜欢的，解码方式选“硬解码”，退出即可加载jar文件，选择观看节目。此方法优点是简单，只需在网上搜索有效的配置接口地址，缺点是接口地址经常失效，受制于人。</p>
+<p><center><a href="/images/tvbox1.jpg"><img src="/images/tvbox1.jpg"></a></center></p>
+<p><center><a href="/images/tvbox2.jpg"><img src="/images/tvbox2.jpg"></a></center></p>
+<p><center><a href="/images/tvbox3.jpg"><img src="/images/tvbox3.jpg"></a></center></p>
+<p>方法2（本地接口）：在本地根目录下新建一个TVBox文件夹，下载复制网上大神写好的××.json配置文件，配置文件内有解析视频的程序，资源网站地址等信息。用记事本打开，将原定义的jar文件地址 ”spider” 改为本地自定义地址： clan://TVBox/××.jar ↓</p>
+<p><center><a href="/images/tvbox4.jpg"><img src="/images/tvbox4.jpg"></a></center></p>
+<p>将上述修改好的××.json配置文件连同下载的××.jar爬虫文件，放到根目录文件夹TVBox内。打开软件，在“设置”中开启本地存储权限，在配置地址输入clan://localhost/TVBox/××.json ，退出即可加载。此方法优点是配置接口固定，缺点是需要拷贝文件到本地根目录，更改jar文件加载地址，更新文件不方便。</p>
+<p>方法3（自定义网络接口）：将配置接口文件××.json、爬取直播源文件××.jar、自己制作的直播源文件××.txt 上传到托管网站，获取其在托管网站中的浏览器网页链接地址：</p>
+<p>(1)将××.jar网页链接地址复制粘贴到××.json文件内替换原来的jar地址 ”spider”，↓</p>
+<p><center><a href="/images/tvbox5.jpg"><img src="/images/tvbox5.jpg"></a></center></p>
+<p>(2)将××.txt网页链接地址复制到加密工具网站 https://base64.us/ 的编码网页里，编辑编码即可得到一个看似乱码的地址。将该乱码地址复制粘贴到××.json文件内，↓</p>
+<p><center><a href="/images/tvbox6.jpg"><img src="/images/tvbox6.jpg"></a></center></p>
+<p>(3)将配置文件××.json网页链接地址输入到软件的配置接口即可。</p>
+<p>此方法优点是文件、直播源可按自己喜好随意自定义，随时更新修改，多人、多设备使用时比较方便，接口地址可靠。缺点就是自己要有一个托管网站。本人现在就是采用该方法。几万套影视片，150多个电视直播频道，按需搜索选择观看，简直是太爽了！</p>
+<p>活到老学到老，生命不息，折腾不止！<br><br></p>
 
-<a href="/html/hangbiaozuoye.html">航标作业</a><br>
-<a href="/html/buoy.html">科普知识—航标</a><br>
-<a href="/html/position.html">科普知识—船舶定位</a><br>
-<a href="/html/taifeng.html">科普知识—台风</a><br>
-<a href="/html/dgps.html">DGPS在浮标定位中的应用</a><br>
-<a href="/html/radar.html">航海雷达简介</a><br>
-<a href="/html/yangliu.html">从洋流看日本排放核废水的影响</a><br>
-<a href="/html/hanchao.html">气象小知识-寒潮</a><br>
-<a href="/html/tvbox.html">观影看剧神器—TVBox</a><br>
-<a href="/html/wangzhandajian.html">如何搭建个人网站</a><br>
-<a href="/html/iptv.html">如何自建电视直播频道</a><br>
-<a href="/html/sacd.html">用电脑播放SACD镜像文件的方法</a><br>
-<a href="/html/yinxiang.html">音响</a><br>
-<a href="/html/git.html">GIT使用摘要备忘</a><br>
-<a href="/html/MarkdownPad.html">MarkdownPad用法备忘</a><br>
-<a href="/html/html code.html">HTML常用代码备忘</a><br>
-<a href="/html/fenglangbiao.html">参考资料-风浪等级表</a><br>
-
-</h3>
 </body>
 </html>
 <!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
