@@ -164,6 +164,12 @@ Now News,http://108.181.20.197/livehttpplay?channel_id=20043
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
+中天新闻,p3p://167.114.175.6:55331/613dba64000abeb1c801c02934bb45fc
+TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
+东森新闻,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
+中天新闻,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
+TVBS新闻,p3p://173.208.176.178:31809/621858e3000e70ad1217c0700d576ad0
+东森新闻,p3p://173.208.176.178:31809/61468afa0005b339ea7014d376a616f3
 
 ⚙测试,#genre#
 HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
