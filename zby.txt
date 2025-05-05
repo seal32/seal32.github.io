@@ -159,17 +159,11 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 🐸台蛙,#genre#
 中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-Now News,http://108.181.20.197/livehttpplay?channel_id=20043
+今日新闻,http://108.181.20.197/livehttpplay?channel_id=20043
 壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
-中天新闻,p3p://167.114.175.6:55331/613dba64000abeb1c801c02934bb45fc
-TVBS新闻,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
-东森新闻,p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3
-中天新闻,p3p://173.208.176.178:31809/613dba64000abeb1c801c02934bb45fc
-TVBS新闻,p3p://173.208.176.178:31809/621858e3000e70ad1217c0700d576ad0
-东森新闻,p3p://173.208.176.178:31809/61468afa0005b339ea7014d376a616f3
 
 ⚙测试,#genre#
 HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
