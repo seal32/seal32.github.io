@@ -281,6 +281,8 @@ CETV4,http://116.199.5.51:8114/index.m3u8?3Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_c
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 🇨🇳央视,#genre#
 CCTV2,http://39.134.66.117:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
