@@ -1,27 +1,23 @@
 ﻿💝常看,#genre#
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,http://8hb85846je10.vicp.fun:5000/bysid/85
 
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 
 翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://cdn3.132.us.kg/live/fct/stream.m3u8
 
 CCTV1,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -156,21 +152,15 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 🐸台蛙,#genre#
 中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-今日新闻,http://108.181.20.197/livehttpplay?channel_id=20043
-壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111
 
 ⚙测试,#genre#
 HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
-HOY,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 HOY,https://cdn.163189.xyz/live/hoy/stream.m3u8
-HOY,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 HOY,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -181,15 +171,10 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 Viu,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
@@ -200,13 +185,9 @@ Viu,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-澳门Macau,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳门Macau,http://cdn.132.us.kg/live/as/stream.m3u8
 澳门Macau,https://cdn.163189.xyz/live/as/stream.m3u8
-澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 CCTV1-综合,http://222.93.124.133:4022/rtp/239.49.8.19:9614?$江苏电信
 CCTV4-国际,http://222.93.124.133:4022/rtp/239.49.8.51:9806?$江苏电信
