@@ -473,14 +473,14 @@ def merge_and_filter():
 
     # 合并任意字符加上网络收集.txt 的文件
     all_files = [f for f in os.listdir(os.getcwd()) if f.endswith('网络收集.txt')]
-    with open(output_file_path, 'a', encoding='utf-8') as main_output:
+    with open(output_file_path, 'a', encoding='utf-8') as master_output:
         for file_name in all_files:
             if file_name!= output_file_path:
                 with open(file_name, 'r', encoding='utf-8') as other_file:
                     content = other_file.read()
                     if content:
-                        main_output.write('\n')
-                        main_output.write(content)
+                        master_output.write('\n')
+                        master_output.write(content)
 
 detected_ips = {}
 merge_and_filter()
@@ -569,7 +569,7 @@ def test_rtsp_connectivity(url, timeout=3):
     return False
 
 # 主函数
-def main(输入, 输出):
+def master(输入, 输出):
     with open(输入, "r", encoding="utf-8") as source_file:
         lines = source_file.readlines()
 
@@ -596,10 +596,10 @@ def main(输入, 输出):
 
     print(f"任务完成, 有效源数量: {len([x for x in results if x[2] == '有效'])}, 无效源数量: {len([x for x in results if x[2] == '无效'])}")
 
-if __name__ == "__main__":
+if __name__ == "__master__":
     输入 =  "网络收集.txt"    #input('请输入utf-8编码的直播源文件路径:')
     输出 = "网络收集.txt"
-    main(输入, 输出)
+    master(输入, 输出)
 
 
 
