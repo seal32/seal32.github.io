@@ -151,7 +151,6 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 魅力足球,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 🐸台蛙,#genre#
-中天亚洲,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091#rtmp://f13h.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
@@ -189,13 +188,6 @@ Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 澳门Macau,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
-CCTV1-综合,http://222.93.124.133:4022/rtp/239.49.8.19:9614?$江苏电信
-CCTV4-国际,http://222.93.124.133:4022/rtp/239.49.8.51:9806?$江苏电信
-CCTV5-体育,http://222.93.124.133:4022/rtp/239.49.8.75:8000?$江苏电信
-CCTV5-体育plus,http://222.93.124.133:4022/rtp/239.49.8.18:9610?$江苏电信
-CCTV7-军事,http://222.93.124.133:4022/rtp/239.49.1.254:6000?$江苏电信
-CCTV9-纪录,http://222.93.124.133:4022/rtp/239.49.8.53:9814?$江苏电信
-CCTV10-科教,http://222.93.124.133:4022/rtp/239.49.8.54:9818?$江苏电信
 
 🌺珠江,#genre#
 凤凰卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8

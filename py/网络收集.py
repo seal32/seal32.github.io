@@ -24,11 +24,10 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%84%E6%92%AD%E4%BC%98%E9%80%89.txt',
+       'https://tv.seal32.cn/local.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt',
-       'https://ghproxy.cc/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/TV2025',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
-       '',
+       'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%84%E6%92%AD%E4%BC%98%E9%80%89.txt',
        '',
        '',
        '',
@@ -321,7 +320,7 @@ with open('2.txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
 
     # 创建或打开一个输出文件用于写入处理后的数据
-    with open('网络收集.txt', 'w', encoding='utf-8') as outfile:
+    with open('zby2.txt', 'w', encoding='utf-8') as outfile:
         for line in lines:
             # 首先检查行是否包含任何提取关键词
             if any(keyword in line for keyword in extract_keywords):
@@ -381,8 +380,8 @@ from tqdm import tqdm
 import os
 
 # 存储文件路径
-file_path = "网络收集.txt"
-output_file_path = "网络收集.txt"
+file_path = "zby2.txt"
+output_file_path = "zby2.txt"
 
 def get_ip_key(url):
     """从 URL 中提取 IP 地址，并构造一个唯一的键"""
@@ -427,8 +426,8 @@ def merge_and_filter():
                     else:
                         detected_ips[ip_key] = {'status': 'fail'}
 
-    # 合并任意字符加上网络收集.txt 的文件
-    all_files = [f for f in os.listdir(os.getcwd()) if f.endswith('网络收集.txt')]
+    # 合并任意字符加上zby2.txt 的文件
+    all_files = [f for f in os.listdir(os.getcwd()) if f.endswith('zby2.txt')]
     with open(output_file_path, 'a', encoding='utf-8') as master_output:
         for file_name in all_files:
             if file_name!= output_file_path:
@@ -473,7 +472,7 @@ def remove_duplicates(input_file, output_file):
         f.writelines(output_lines)
     print("去重后的行数：", len(output_lines))
 # 使用方法
-remove_duplicates('网络收集.txt', '网络收集.txt')
+remove_duplicates('zby2.txt', 'zby2.txt')
 
 
 
@@ -553,8 +552,8 @@ def master(输入, 输出):
     print(f"任务完成, 有效源数量: {len([x for x in results if x[2] == '有效'])}, 无效源数量: {len([x for x in results if x[2] == '无效'])}")
 
 if __name__ == "__master__":
-    输入 =  "网络收集.txt"    #input('请输入utf-8编码的直播源文件路径:')
-    输出 = "网络收集.txt"
+    输入 =  "zby2.txt"    #input('请输入utf-8编码的直播源文件路径:')
+    输出 = "zby2.txt"
     master(输入, 输出)
 
 
@@ -563,7 +562,7 @@ if __name__ == "__master__":
 import re
 from pypinyin import lazy_pinyin
 # 打开一个utf-8编码的文本文件
-with open("网络收集.txt", "r", encoding="utf-8") as file:
+with open("zby2.txt", "r", encoding="utf-8") as file:
     # 读取所有行并存储到列表中
     lines = file.readlines()
 # 定义一个函数，用于提取每行的第一个数字
@@ -573,7 +572,7 @@ def extract_first_number(line):
 # 对列表中的行进行排序，按照第一个数字的大小排列，其余行按中文排序
 sorted_lines = sorted(lines, key=lambda x: (not 'CCTV' in x, extract_first_number(x) if 'CCTV' in x else lazy_pinyin(x.strip())))
 # 将排序后的行写入新的utf-8编码的文本文件
-with open("网络收集.txt", "w", encoding="utf-8") as file:
+with open("zby2.txt", "w", encoding="utf-8") as file:
     for line in sorted_lines:
         file.write(line)
 
@@ -630,7 +629,7 @@ def parse_file(input_file_path, output_file_name):    #
             output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
             alphabet_counter += 1  # 递增字母计数器
 # 调用函数并传入文件路径和输出文件名
-parse_file('网络收集.txt', '网络收集.txt')
+parse_file('zby2.txt', 'zby2.txt')
 
 
 
@@ -640,7 +639,7 @@ import datetime
 now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
 current_time = now.strftime("%Y/%m/%d %H:%M")
 # 打开文本文件并将时间添加到开头
-file_path = "网络收集.txt"
+file_path = "zby2.txt"
 with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
     f.seek(0, 0)
