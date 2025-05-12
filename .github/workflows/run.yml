@@ -53,7 +53,7 @@ jobs:
           git commit -m "🔄 自动更新采集数据 "
           
           # 先拉取最新代码避免冲突
-          git pull origin main --rebase
+          git pull origin master --rebase
           
           # 强制推送更新（适用于自动化场景）
           git push origin master --force-with-lease
