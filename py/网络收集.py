@@ -24,7 +24,6 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://tv.seal32.cn/local.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%84%E6%92%AD%E4%BC%98%E9%80%89.txt',
@@ -623,7 +622,7 @@ def parse_file(input_file_path, output_file_name):    #
  ######################################################              
             # 生成分类名
             genre_name = chr(65 + alphabet_counter)# + str(number_counter)
-            output_file.write(f"港澳{genre_name}组,#genre#\n")
+            output_file.write(f"频道{genre_name}组,#genre#\n")
             for line in lines:
                 output_file.write(line + '\n')
             output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
@@ -632,6 +631,16 @@ def parse_file(input_file_path, output_file_name):    #
 parse_file('zby2.txt', 'zby2.txt')
 
 
+#合并指定的本地文件
+def merge_files(file1_path, file2_path, output_path):
+    with open(file1_path, 'r', encoding='utf-8') as f1, \
+         open(file2_path, 'r', encoding='utf-8') as f2:
+        content = f1.read() + f2.read()
+    
+    with open(output_path, 'w', encoding='utf-8') as f_out:
+        f_out.write(content)
+# 使用示例
+merge_files('local.txt', 'zby.txt', 'merged.txt')
 
 
 
@@ -642,7 +651,7 @@ current_time = now.strftime("%Y/%m/%d %H:%M")
 file_path = "zby2.txt"
 with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
-    f.seek(0, 0)
+    f.seek(0, 0)：
     f.write(f'{current_time}更新,#genre#\n')
        
 
