@@ -308,11 +308,11 @@ import re
 import os
 # 定义一个包含所有要排除的关键词的列表
 excluded_keywords = ['epg', 'mitv', 'udp', 'rtp', 'P2p', 'p2p', 'p3p', 'P2P', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 
-                     'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '/hls/', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott', 
-                     '22:8891', 'fanmingming', '43:22222', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', 'CHC', '/vd', '/TV2/']   #, 'CHC', '/TV2/'
+                     'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott', 
+                     '22:8891', 'fanmingming', '43:22222', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', '/vd', '/TV2/']   #, '/TV2/'
 
 # 定义一个包含所有要提取的关键词的列表
-extract_keywords = ['凤凰卫视', '亚洲卫视', '香港卫视', '翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '华视', '中天', '无线', '华丽台', '中视', 'TVB', '公视', '寰宇', '中天娱乐']
+extract_keywords = ['凤凰卫视', '亚洲卫视', '香港卫视', '翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '华视', '中天', '无线', '华丽台', '中视', 'TVB', '公视', '台视', '寰宇', '中天娱乐', 'CCTV', '广州', '广东', '新视觉', 'CHC', '足球', '体育', 'HOY', 'NOW', 'RTHK', '澳门', 'TVBS', '东森', '卫视' 'CNN', 'ABC', 'Global News', 'FOX', 'BBC']
 
 
 # 读取文件并处理每一行
