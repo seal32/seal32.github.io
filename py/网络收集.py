@@ -631,16 +631,6 @@ def parse_file(input_file_path, output_file_name):    #
 parse_file('zby2.txt', 'zby2.txt')
 
 
-#合并指定的本地文件
-def merge_files(file1_path, file2_path, output_path):
-    with open(file1_path, 'r', encoding='utf-8') as f1, \
-         open(file2_path, 'r', encoding='utf-8') as f2:
-        content = f1.read() + f2.read()
-    
-    with open(output_path, 'w', encoding='utf-8') as f_out:
-        f_out.write(content)
-# 使用示例
-merge_files('local.txt', 'zby.txt', 'merged.txt')
 
 
 
