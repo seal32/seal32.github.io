@@ -151,6 +151,9 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 魅力足球,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 🐸台蛙,#genre#
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
+中天新闻,P2p://80.251.220.91:7999/afbdb12456fc0f895b0c315e8aa844db.ts
+中天新闻,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.ts
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091#rtmp://f13h.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111#rtmp://f13h.mine.nu/sat/tv111

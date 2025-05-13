@@ -29,7 +29,7 @@ http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 group-title="常看",澳门Macau
 http://cdn.132.us.kg/live/as/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.seal32.cn/logo/中天新闻.png" group-title="常看",中天新闻
-
+http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 #EXTINF:-1 group-title="常看",中天亚洲
 http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="常看",TVBS新闻
