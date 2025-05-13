@@ -277,7 +277,7 @@ def remove_duplicates(input_file, output_file):
     # 打开输入文件并读取所有行
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-        print("去重前的行数：", len(lines))
+        print("去重前的行数:", len(lines))
         # 遍历每一行
         for line in lines:
             # 使用正则表达式查找URL和包含genre的行,默认最后一行
@@ -293,7 +293,7 @@ def remove_duplicates(input_file, output_file):
     # 将结果写入输出文件
     with open(output_file, 'w', encoding='utf-8') as f:
         f.writelines(output_lines)
-    print("去重后的行数：", len(output_lines))
+    print("去重后的行数:", len(output_lines))
 # 使用方法
 remove_duplicates('汇总.txt', '2.txt')   
 
@@ -453,7 +453,7 @@ def remove_duplicates(input_file, output_file):
     # 打开输入文件并读取所有行
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-        print("去重前的行数：", len(lines))
+        print("去重前的行数:", len(lines))
         # 遍历每一行
         for line in lines:
             # 使用正则表达式查找URL和包含genre的行,默认最后一行
@@ -469,7 +469,7 @@ def remove_duplicates(input_file, output_file):
     # 将结果写入输出文件
     with open(output_file, 'w', encoding='utf-8') as f:
         f.writelines(output_lines)
-    print("去重后的行数：", len(output_lines))
+    print("去重后的行数:", len(output_lines))
 # 使用方法
 remove_duplicates('zby2.txt', 'zby2.txt')
 
@@ -651,7 +651,7 @@ current_time = now.strftime("%Y/%m/%d %H:%M")
 file_path = "zby2.txt"
 with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
-    f.seek(0, 0)：
+    f.seek(0, 0):
     f.write(f'{current_time}更新,#genre#\n')
        
 
