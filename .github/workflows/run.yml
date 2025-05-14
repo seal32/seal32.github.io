@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'  # UTC时间每天22点/10点运行（北京时间6点/18点）
+    - cron: '0 22 * * *'  # UTC时间每天22点运行（北京时间6点）
   workflow_dispatch:
     inputs:
       branch:
