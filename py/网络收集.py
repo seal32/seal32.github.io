@@ -619,10 +619,6 @@ def parse_file(input_file_path, output_file_name):    #
             # 生成分类名
 
 
-# 调用函数并传入文件路径和输出文件名
-parse_file('zby2.txt', 'zby2.txt')
-
-
 import datetime
 now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
 current_time = now.strftime("%Y/%m/%d %H:%M")
