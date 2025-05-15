@@ -303,7 +303,7 @@ remove_duplicates('汇总.txt', '2.txt')
 import re
 import os
 # 定义一个包含所有要排除的关键词的列表
-excluded_keywords = ['epg', 'mitv', 'rtp', 'P2p', 'p2p', 'p3p', 'P2P', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 
+excluded_keywords = ['epg', 'mitv', 'rtp', 'P2p', 'p2p', 'p3p', 'P2P', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 'mp4', 
                      'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott', 
                      '22:8891', 'fanmingming', '43:22222', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', '/vd', '/TV2/']   #, '/TV2/'
 
@@ -361,13 +361,12 @@ def parse_file(input_file_path, output_file_name):
     with open(output_file_name, 'w', encoding='utf-8') as output_file:
         for ip_or_domain, lines in filtered_ip_or_domain_to_lines.items():
             # 写入IP或域名及其对应的行到输出文件
-            output_file.write(f"频道,#genre#\n")
-            for line in lines:
-                output_file.write(line + '\n')
-            output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
+            # output_file.write(f"频道,#genre#\n")
+            # for line in lines:
+            #    output_file.write(line + '\n')
+            # output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
 # 调用函数并传入文件路径和输出文件名
 parse_file('zby2.txt', 'zby2.txt')
-
 
 
 import cv2
@@ -618,9 +617,14 @@ def parse_file(input_file_path, output_file_name):    #
                 alphabet_counter = 0  # 重置字母计数器          
  ######################################################              
             # 生成分类名
-
-
-
+           # genre_name = chr(65 + alphabet_counter)# + str(number_counter)
+           # output_file.write(f"频道{genre_name}组,#genre#\n")
+           # for line in lines:
+               # output_file.write(line + '\n')
+           # output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
+           # alphabet_counter += 1  # 递增字母计数器
+# 调用函数并传入文件路径和输出文件名
+# parse_file('zby2.txt', 'zby2.txt')
 
 
 import datetime
