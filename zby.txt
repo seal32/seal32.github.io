@@ -1,6 +1,7 @@
 ﻿💝常看,#genre#
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -9,6 +10,11 @@
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+
 
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
@@ -100,10 +106,8 @@ CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -144,11 +148,10 @@ CCTV16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 广州竞赛,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=112&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 魅力足球,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+超级体育,http://39.134.65.198/PLTV/88888888/224/3221225635/1.m3u8
+精品体育,http://39.135.133.155/PLTV/88888888/224/3221225526/1.m3u8
 
 🐸台蛙,#genre#
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
@@ -158,9 +161,7 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
 
-⚙测试,#genre#
-HOY,http://cdn.132.us.kg/live/hoy/stream.m3u8
-HOY,https://cdn.163189.xyz/live/hoy/stream.m3u8
+🇭🇰港澳,#genre#
 HOY,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
@@ -173,12 +174,21 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
-TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 Viu,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 Viu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 Viu,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -187,10 +197,6 @@ Viu,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-澳门Macau,http://cdn.132.us.kg/live/as/stream.m3u8
-澳门Macau,https://cdn.163189.xyz/live/as/stream.m3u8
-澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
-澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 
 🌺珠江,#genre#
 凤凰卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -420,6 +426,8 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
+
+⚙测试,#genre#
 
 📰纪录,#genre#
 
