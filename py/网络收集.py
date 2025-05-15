@@ -303,12 +303,12 @@ remove_duplicates('汇总.txt', '2.txt')
 import re
 import os
 # 定义一个包含所有要排除的关键词的列表
-excluded_keywords = ['epg', 'mitv', 'rtp', 'P2p', 'p2p', 'p3p', 'P2P', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 'mp4', 
+excluded_keywords = ['epg', 'mitv', 'rtp', 'p3p', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 'mp4', 
                      'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott', 
                      '22:8891', 'fanmingming', '43:22222', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', '/vd', '/TV2/']   #, '/TV2/'
 
 # 定义一个包含所有要提取的关键词的列表
-extract_keywords = ['凤凰卫视', '亚洲卫视', '香港卫视', '翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '华视', '中天', '无线', '华丽台', '中视', 'TVB', 'viu', '公视', '台视', '寰宇', 'CCTV', '广州', '广东', '新视觉', 'CHC', '足球', '体育', 'HOY', 'NOW', 'RTHK', '澳门', 'TVBS', '东森', '广东卫视', '深圳卫视', '江苏卫视', '湖南卫视', '东方卫视', '北京卫视', '浙江卫视', '青海卫视', '东南卫视', '天津卫视', '辽宁卫视', '四川卫视', '江西卫视', '贵州卫视', '湖北卫视', '重庆卫视', '河北卫视', '甘肃卫视', '云南卫视', '吉林卫视', '河南卫视', '山东卫视', '金鹰卡通', '安徽卫视', '广西卫视', '海南卫视', '大湾区卫视', 'CNN', 'ABC', 'Global News', 'FOX', 'BBC']
+extract_keywords = ['凤凰卫视', '香港卫视', '翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '中天新闻', '中天亚洲', '无线新闻', 'TVB', 'viu', '中视', '公视', '台视', '华视', 'CCTV', '广州', '广东', '新视觉', 'CHC', '足球', '体育', 'HOY', 'NOW', 'RTHK', '澳门', 'TVBS新闻', '东森新闻', '广东卫视', '深圳卫视', '江苏卫视', '湖南卫视', '东方卫视', '北京卫视', '浙江卫视', '青海卫视', '东南卫视', '天津卫视', '辽宁卫视', '四川卫视', '江西卫视', '贵州卫视', '湖北卫视', '重庆卫视', '河北卫视', '甘肃卫视', '云南卫视', '吉林卫视', '河南卫视', '山东卫视', '金鹰卡通', '安徽卫视', '广西卫视', '海南卫视', '大湾区卫视', 'CNN', 'ABC', 'Global News', 'FOX', 'BBC']
 
 
 # 读取文件并处理每一行
@@ -617,12 +617,8 @@ def parse_file(input_file_path, output_file_name):    #
                 alphabet_counter = 0  # 重置字母计数器          
  ######################################################              
             # 生成分类名
-            genre_name = chr(65 + alphabet_counter)# + str(number_counter)
-            output_file.write(f"港澳{genre_name}组,#genre#\n")
-            for line in lines:
-                output_file.write(line + '\n')
-            output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
-            alphabet_counter += 1  # 递增字母计数器
+
+
 # 调用函数并传入文件路径和输出文件名
 parse_file('zby2.txt', 'zby2.txt')
 
