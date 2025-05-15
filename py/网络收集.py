@@ -363,9 +363,8 @@ def parse_file(input_file_path, output_file_name):
             # 写入IP或域名及其对应的行到输出文件
             output_file.write(f"频道,#genre#\n")
             for line in lines:
-            output_file.write(line + '\n')
+                output_file.write(line + '\n')
             output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
-
 # 调用函数并传入文件路径和输出文件名
 parse_file('zby2.txt', 'zby2.txt')
 
