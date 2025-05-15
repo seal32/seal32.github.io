@@ -617,16 +617,14 @@ def parse_file(input_file_path, output_file_name):    #
                 alphabet_counter = 0  # 重置字母计数器          
  ######################################################              
             # 生成分类名
-          genre_name = chr(65 + alphabet_counter)# + str(number_counter)
-          output_file.write(f"频道{genre_name}组,#genre#\n")
+            genre_name = chr(65 + alphabet_counter)# + str(number_counter)
+            output_file.write(f"港澳{genre_name}组,#genre#\n")
             for line in lines:
                 output_file.write(line + '\n')
             output_file.write('\n')  # 在每个小段后添加一个空行作为分隔
             alphabet_counter += 1  # 递增字母计数器
-
-
 # 调用函数并传入文件路径和输出文件名
- parse_file('zby2.txt', 'zby2.txt')
+parse_file('zby2.txt', 'zby2.txt')
 
 
 import datetime
