@@ -24,7 +24,6 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://tv.seal32.cn/local.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/TV2025',
@@ -304,7 +303,7 @@ import re
 import os
 # 定义一个包含所有要排除的关键词的列表
 excluded_keywords = ['epg', 'mitv', 'rtp', 'p3p', '新闻综合', 'P3p', 'jdshipin#', '9930/qilu', 'gitcode.net', '151:99', '21dtv', 'txmov2', 'gcw.bdcdn', 'metshop', 'mp4', 
-                     'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott', '频道,#genre#', 
+                     'shandong', 'goodiptv', '购物', '[', 'P3P', '腔', '曲', '//1', '春节', '网络收集', '95.179', 'hlspull', 'github', 'lunbo', 'tw.ts138', '114:8278', '//tvb', 'extraott',  
                      '22:8891', 'fanmingming', '43:22222', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', '/vd', '/TV2/']   #, '/TV2/'
 
 # 定义一个包含所有要提取的关键词的列表
