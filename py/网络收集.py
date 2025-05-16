@@ -617,6 +617,13 @@ def parse_file(input_file_path, output_file_name):    #
  ######################################################              
             # 生成分类名
 
+# 打开并读取 local.txt 文件
+with open('local.txt', 'r', encoding='utf-8') as local_file:
+       local_content = local_file.read()
+ 
+# 打开 zby2.txt 文件，并将 local.txt 的内容追加到 zby2.txt 的末尾
+with open('zby2.txt', 'a', encoding='utf-8') as zby2_file:
+       zby2_file.write(local_content)
 
 import datetime
 now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
