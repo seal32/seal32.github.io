@@ -629,6 +629,8 @@ channels = {
          "央视": [],
          "卫视": [],
          "外国": [],
+         "其它": []
+}
 
 # 遍历每一行
 for line in lines:
@@ -644,6 +646,8 @@ for line in lines:
           channels["央视"].append(line.strip())
       elif "卫视" in line_lower:
           channels["卫视"].append(line.strip())
+      elif "CNN" in line_lower or "Global News" in line_lower or "BBC NEWS" in line_lower or "FOX NEWS" in line_lower  or "ABC NEWS" in line_lower:
+          channels["外国"].append(line.strip())
       else:
           channels["其它"].append(line.strip())
 
@@ -655,7 +659,6 @@ with open('zby2.txt', 'w', encoding='utf-8') as file:
                   file.write(f"{channel}\n")
             file.write('\n')
 print("执行完毕")
-
 
 
 # 打开并读取 local.txt 文件
