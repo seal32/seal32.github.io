@@ -617,6 +617,47 @@ def parse_file(input_file_path, output_file_name):    #
  ######################################################              
             # 生成分类名
 
+# 读取原始文本文件
+with open('zby2.txt', 'r', encoding='utf-8') as file:
+       lines = file.readlines()
+
+# 定义存储频道信息的字典
+channels = {
+         "常看": [],
+         "体育": [],
+         "港台": [],
+         "央视": [],
+         "卫视": [],
+         "外国": [],
+
+# 遍历每一行
+for line in lines:
+      line_lower = line.lower()   #将文本转换为小写以便进行匹配
+      line=line.replace(': ',' , ')
+      if "凤凰" in line_lower or "翡翠台" in line_lower or "无线新闻" in line_lower or "cctv1" in line_lower  or "cctv4" in line_lower or "cctv13" in line_lower or "广州" in line_lower or "广东珠江" in line_lower:
+         channels["常看"].append(line.strip())
+      elif "cctv5" in line_lower or "cctv5+" in line_lower or "cctv16" in line_lower or "体育" in line_lower  or "足球" in line_lower or "竞赛" in line_lower:
+         channels["体育"].append(line.strip()) 
+      elif "中天" in line_lower or "中视" in line_lower or "台视" in line_lower or "华视" in line_lower  or "HOY" in line_lower or "RTHK" in line_lower or "NOW" in line_lower or "TVB" in line_lower or "VIU" in line_lower:
+         channels["港台"].append(line.strip()) 
+      elif "cctv" in line_lower:
+          channels["央视"].append(line.strip())
+      elif "卫视" in line_lower:
+          channels["卫视"].append(line.strip())
+      else:
+          channels["其它"].append(line.strip())
+
+#写入新的文本文件
+with open('zby2.txt', 'w', encoding='utf-8') as file:
+       for genre, channel_list in channels.items():
+            file.write(f"{genre},#genre#\n")
+            for channel in channel_list:
+                  file.write(f"{channel}\n")
+            file.write('\n')
+print("执行完毕")
+
+
+
 # 打开并读取 local.txt 文件
 with open('local.txt', 'r', encoding='utf-8') as local_file:
        local_content = local_file.read()
