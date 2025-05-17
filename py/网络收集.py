@@ -623,33 +623,33 @@ with open('zby2.txt', 'r', encoding='utf-8') as file:
 
 # 定义存储频道信息的字典
 channels = {
-         "常看": [],
-         "体育": [],
-         "港台": [],
-         "央视": [],
-         "卫视": [],
-         "外国": [],
-         "其它": []
+         "💝常看": [],
+         "⛹️体育": [],
+         "🇭🇰港台": [],
+         "🇨🇳央视": [],
+         "📡卫视": [],
+         "🌏外国": [],
+         "📹其它": []
 }
 
 # 遍历每一行
 for line in lines:
       line_lower = line.lower()   #将文本转换为小写以便进行匹配
       line=line.replace(': ',' , ')
-      if "凤凰" in line_lower or "翡翠台" in line_lower or "无线新闻" in line_lower or "cctv1" in line_lower  or "cctv4" in line_lower or "cctv13" in line_lower or "广州" in line_lower or "广东珠江" in line_lower:
-         channels["常看"].append(line.strip())
+      if "凤凰" in line_lower or "翡翠台" in line_lower or "无线新闻" in line_lower or "广州" in line_lower or "广东珠江" in line_lower:
+         channels["💝常看"].append(line.strip())
       elif "cctv5" in line_lower or "cctv5+" in line_lower or "cctv16" in line_lower or "体育" in line_lower  or "足球" in line_lower or "竞赛" in line_lower:
-         channels["体育"].append(line.strip()) 
-      elif "中天" in line_lower or "中视" in line_lower or "台视" in line_lower or "华视" in line_lower  or "HOY" in line_lower or "RTHK" in line_lower or "NOW" in line_lower or "TVB" in line_lower or "VIU" in line_lower:
-         channels["港台"].append(line.strip()) 
+         channels["⛹️体育"].append(line.strip()) 
+      elif "中天" in line_lower or "中视" in line_lower or "台视" in line_lower or "华视" in line_lower  or "hoy" in line_lower or "rthk" in line_lower or "now" in line_lower or "tvb" in line_lower or "viu" in line_lower or "tvbs新闻" in line_lower or "东森新闻" in line_lower or "寰宇新闻" in line_lower:
+         channels["🇭🇰港台"].append(line.strip()) 
       elif "cctv" in line_lower:
-          channels["央视"].append(line.strip())
+          channels["🇨🇳央视"].append(line.strip())
       elif "卫视" in line_lower:
-          channels["卫视"].append(line.strip())
-      elif "CNN" in line_lower or "Global News" in line_lower or "BBC NEWS" in line_lower or "FOX NEWS" in line_lower  or "ABC NEWS" in line_lower:
-          channels["外国"].append(line.strip())
+          channels["📡卫视"].append(line.strip())
+      elif "cnn" in line_lower or "global news" in line_lower or "bbc news" in line_lower or "fox news" in line_lower  or "abc news" in line_lower:
+          channels["🌏外国"].append(line.strip())
       else:
-          channels["其它"].append(line.strip())
+          channels["📹其它"].append(line.strip())
 
 #写入新的文本文件
 with open('zby2.txt', 'w', encoding='utf-8') as file:
@@ -677,7 +677,7 @@ file_path = "zby2.txt"
 with open(file_path, 'r+', encoding='utf-8') as f:
     content = f.read()
     f.seek(0, 0)
-    f.write(f'{current_time}更新,#genre#\n')
+    f.write(f'{current_time}更新,\n')
        
 
 ################################################################################################任务结束，删除不必要的过程文件
