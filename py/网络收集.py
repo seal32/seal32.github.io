@@ -672,13 +672,9 @@ with open('zby2.txt', 'a', encoding='utf-8') as zby2_file:
 import datetime
 now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
 current_time = now.strftime("%Y/%m/%d %H:%M")
-# 打开文本文件并将时间添加到开头
-file_path = "zby2.txt"
-with open(file_path, 'r+', encoding='utf-8') as f:
-    content = f.read()
-    f.seek(0, 0)
-    f.write(f'{current_time}更新,💝常看,#genre#\n')
-       
+# 以追加模式打开文件，并在末尾添加新行和时间
+with open('zby2.txt', 'a') as file:
+    file.write(f"\n{current_time}更新")  # 确保时间在新的一行       
 
 ################################################################################################任务结束，删除不必要的过程文件
 files_to_remove = ["2.txt", "汇总.txt"]
