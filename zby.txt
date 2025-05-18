@@ -1,30 +1,47 @@
 ﻿💝常看,#genre#
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
 凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
+凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
 
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 
 翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://cdn3.132.us.kg/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 CCTV1,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV1,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -257,7 +274,6 @@ CCTV10,http://39.134.65.215/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.66.104:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
 CCTV10,http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV10,http://39.134.65.130/PLTV/88888888/224/3221225677/1.m3u8
-CCTV10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV10,http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,http://39.134.66.66/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8
@@ -271,7 +287,6 @@ CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8
 CCTV11,http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV11,http://39.135.133.177/TVOD/88888888/224/3221226123/main.m3u8
 CCTV11,http://117.114.153.18:8182/hls/TV00000000000000000002@HHZT.m3u8
-CCTV11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV11,http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
@@ -292,16 +307,13 @@ CCTV15,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/322122560
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV15,http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
 CCTV15,http://39.134.65.215/PLTV/88888888/224/3221225513/1.m3u8
-CCTV15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV17,http://39.134.65.215/PLTV/88888888/224/3221225708/1.m3u8
-CCTV17,http://39.134.65.106/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 CCTV17,http://39.137.75.234:80/000000001000/1000000005000056836/1.m3u8?livemode=1&stbId=no&channel-id=ystenlive&Contentid=1000000005000056836
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 📡卫视,#genre#
 广东卫视,http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8
 广东卫视,http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8
-广东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
 广东卫视,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
@@ -335,7 +347,6 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 湖南卫视,http://116.232.8.196:18888/bptv/10000100000000050000000003873458.m3u8
 浙江卫视,http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
-浙江卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 浙江卫视,http://39.134.66.117:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8
 浙江卫视,http://116.232.8.196:18888/bptv/10000100000000050000000003873464.m3u8
