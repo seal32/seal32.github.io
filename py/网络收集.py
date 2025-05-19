@@ -27,7 +27,7 @@ urls = [
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
        'https://ghproxy.cc/https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/TV2025',
-       '',
+       'https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',
        '',
        '',
        '',

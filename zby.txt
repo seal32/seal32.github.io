@@ -122,6 +122,8 @@ CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111
 
@@ -161,6 +163,7 @@ CCTV16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广州竞赛,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=112&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 魅力足球,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 超级体育,http://39.134.65.198/PLTV/88888888/224/3221225635/1.m3u8
