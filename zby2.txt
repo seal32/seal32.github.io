@@ -2,7 +2,10 @@
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=166485&tk=922ba46651d3
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=41fd16&tk=922ba46651d3
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a63b5&tk=922ba46651d3
+翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a7733&tk=922ba46651d3
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8f59d1&tk=922ba46651d3
+翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a7b728&tk=922ba46651d3
+翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bb8ba7&tk=922ba46651d3
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=db29a3&tk=922ba46651d3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -23,6 +26,7 @@
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2036dc&tk=922ba46651d3
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -38,16 +42,14 @@
 凤凰中文,https://gat.tv12.xyz/164.m3u8
 凤凰中文,https://gat.tv12.xyz/165.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=48c12b&tk=922ba46651d3
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9a81ef&tk=922ba46651d3
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=813a2a&tk=922ba46651d3
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://gat.tv12.xyz/168.m3u8
@@ -386,8 +388,8 @@ NewTV精品体育,http://39.135.133.155/PLTV/88888888/224/3221225526/1.m3u8
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 五星体育,http://222.64.68.61:12028/udp/233.18.204.58:5140
 五星体育,http://sunhy.x3322.net:4022/udp/233.18.204.58:5140
 中国足球风云,http://sport.pendy.dpdns.org/migu/788816794?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -458,13 +460,11 @@ TVB综合,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 TVBPlus,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4f7d53&tk=922ba46651d3
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2###HLS\\n
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVBPlus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVBPlus,https://live.tvfix.org/live/inews/index.m3u8
 TVBRics,http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8
 TVBSNEW,http://61.221.215.25:8800/hls/9/index.m3u8
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu,https://cdn5.163189.xyz/live/viu/stream.m3u8
@@ -2573,4 +2573,4 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 海南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-2025/05/24 06:41更新
+2025/05/25 06:39更新
