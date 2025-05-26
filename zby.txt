@@ -115,6 +115,7 @@ CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -152,6 +153,7 @@ CCTV16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 
@@ -164,6 +166,7 @@ TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 中视,rtmp://60.248.77.83/sat/tv091#rtmp://9hv9.mine.nu/sat/tv091#rtmp://f13h.mine.nu/sat/tv091
 台视,rtmp://60.248.77.83/sat/tv071#rtmp://9hv9.mine.nu/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://60.248.77.83/sat/tv111#rtmp://9hv9.mine.nu/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
+NOW新闻,http://a.ru8.dpdns.org/now/332/master.m3u8
 HOY,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
