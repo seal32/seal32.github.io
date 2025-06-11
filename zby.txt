@@ -164,11 +164,20 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 精品体育,http://39.135.133.155/PLTV/88888888/224/3221225526/1.m3u8
 
 🇭🇰港台,#genre#
-中天新闻,https://ali.hlspull.yximgs.com/live/ztxw001.flv
 东森新闻,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=44&token=d4d52b3f11089f28c84dd0f1eba1a74e
+翡翠台,http://a.ru8.dpdns.org/now/81/master.m3u8
+无线新闻,http://a.ru8.dpdns.org/now/83/master.m3u8
 NOW新闻,http://a.ru8.dpdns.org/now/332/master.m3u8
-HOY,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-HOY,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+NOW直播,http://a.ru8.dpdns.org/now/331/master.m3u8
+NOW财经,http://a.ru8.dpdns.org/now/333/master.m3u8
+NOW华剧台,http://a.ru8.dpdns.org/now/105/master.m3u8
+DW,http://a.ru8.dpdns.org/now/76/master.m3u8
+HOY78,http://a.ru8.dpdns.org/now/78/master.m3u8
+VIU TV,http://a.ru8.dpdns.org/now/99/master.m3u8
+VIU TV6,http://a.ru8.dpdns.org/now/96/master.m3u8
+HOY77,http://a.ru8.dpdns.org/now/77/master.m3u8
+HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -179,9 +188,9 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-Viu,https://cdn5.163189.xyz/live/viu/stream.m3u8
-Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-Viu,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIU TV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+VIU TV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+VIU TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
