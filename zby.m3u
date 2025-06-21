@@ -26,6 +26,10 @@ http://cdn5.132.us.kg/live/rthk31/stream.m3u8
 http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tv.seal32.cn/logo/中天新闻.png" group-title="常看",中天新闻
 http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=43&token=d4d52b3f11089f28c84dd0f1eba1a74e
+#EXTINF:-1 tvg-logo="https://tv.seal32.cn/logo/中天新闻.png" group-title="常看",中天新闻
+https://ali.hlspull.yximgs.com/live/167_ztxw.flv
+#EXTINF:-1 tvg-logo="https://tv.seal32.cn/logo/中天新闻.png" group-title="常看",中天新闻
+https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 #EXTINF:-1 group-title="常看",中天亚洲
 http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=78&token=d4d52b3f11089f28c84dd0f1eba1a74e
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="常看",TVBS新闻
