@@ -24,6 +24,7 @@
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -50,6 +51,7 @@
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://gat.tv12.xyz/168.m3u8
 凤凰资讯,https://gat.tv12.xyz/169.m3u8
+凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 凤凰资讯,https://live.cdn.com.mp/live/fhzx/stream.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -114,11 +116,13 @@
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83.m3u8
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 ⛹️体育,#genre#
 CCTV5,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
@@ -421,6 +425,7 @@ TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVBRics,http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+TVBS新闻台,https://hls-gateway.vpstv.net/streams/708927.m3u8
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu,https://cdn5.163189.xyz/live/viu/stream.m3u8
 Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -446,6 +451,7 @@ Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
+中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 
 🇨🇳央视,#genre#
 CCTV1,http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
@@ -2044,6 +2050,7 @@ CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0i
 澳门综艺,https://gat.tv12.xyz/186.m3u8
 澳视澳门,https://gat.tv12.xyz/181.m3u8
 公视,http://xn--94q.l5.ca/daili/Smartv.php?id=ctv_taiwan
+公视戏剧,https://hls-gateway.vpstv.net/streams/476298.m3u8
 http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8
 http://60.255.240.247:8090/live/lnwsCHC-H265_4000.m3u8
 http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
@@ -2124,4 +2131,4 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 海南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-2025/06/24 06:43更新
+2025/06/25 06:39更新
