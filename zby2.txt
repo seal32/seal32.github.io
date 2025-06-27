@@ -4,12 +4,14 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
@@ -40,6 +42,7 @@
 凤凰中文,https://gat.tv12.xyz/165.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -118,6 +121,7 @@
 无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
@@ -389,9 +393,10 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVBRics,http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+TVBS欢乐,https://hls-gateway.vpstv.net/streams/477068.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-TVBS新闻台,https://hls-gateway.vpstv.net/streams/708927.m3u8
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu,https://cdn5.163189.xyz/live/viu/stream.m3u8
 Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -2030,4 +2035,4 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 海南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-2025/06/27 06:40更新
+2025/06/28 06:39更新
