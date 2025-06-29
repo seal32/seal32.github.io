@@ -460,8 +460,11 @@ CNN,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=108&token=d4d52b3f
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 D,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=113&token=d4d52b3f11089f28c84dd0f1eba1a74e
 
-⚙测试,#genre#
-
 📰纪录,#genre#
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+newtv军事评论,http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8
+
 
 📹影视,#genre#
+
+⚙测试,#genre#
