@@ -42,7 +42,6 @@
 凤凰中文,https://gat.tv12.xyz/165.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
@@ -54,7 +53,6 @@
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://gat.tv12.xyz/168.m3u8
 凤凰资讯,https://gat.tv12.xyz/169.m3u8
-凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
 凤凰资讯,https://live.cdn.com.mp/live/fhzx/stream.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -393,9 +391,7 @@ TVBPlus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVBRics,http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-TVBS欢乐,https://hls-gateway.vpstv.net/streams/477068.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 Viu,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 Viu,https://cdn5.163189.xyz/live/viu/stream.m3u8
@@ -422,7 +418,6 @@ Viu6,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/fc.m3u8
-中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 
 🇨🇳央视,#genre#
 CCTV1,http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
@@ -1957,7 +1952,6 @@ CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0i
 澳门综艺,https://gat.tv12.xyz/186.m3u8
 澳视澳门,https://gat.tv12.xyz/181.m3u8
 公视,http://xn--94q.l5.ca/daili/Smartv.php?id=ctv_taiwan
-公视戏剧,https://hls-gateway.vpstv.net/streams/476298.m3u8
 金鹰卡通,http://47.243.110.210:28001/bptv/10000100000000050000000004796942.m3u8
 南国都市,http://api2.52tb.xyz/info?id=419&token=20230405tndmhg
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
@@ -2035,4 +2029,4 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 海南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-2025/06/30 06:37更新
+2025/07/01 06:40更新
