@@ -452,6 +452,8 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 安徽卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广西卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 海南卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+快乐垂钓,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+茶频道,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
