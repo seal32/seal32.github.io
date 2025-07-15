@@ -3,7 +3,7 @@ name: 'Update schedule'
 on:
   schedule:
     - cron: '0 22 * * 1'  # 每周一UTC时间22:00 运行 (北京时间6点，周一1-6表示周一到周六, 0/7是周日)
-workflow_dispatch:
+  workflow_dispatch:
     inputs:
       branch:
         description: 'master'
