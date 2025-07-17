@@ -118,12 +118,8 @@ CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
-广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
-南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 
 ⛹️体育,#genre#
@@ -162,8 +158,6 @@ CCTV16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 
 超级体育,http://39.134.65.198/PLTV/88888888/224/3221225635/1.m3u8
@@ -180,36 +174,21 @@ TVBS,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=70&token=d4d52b3f
 东森新闻,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=44&token=d4d52b3f11089f28c84dd0f1eba1a74e
 东森综合,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=96&token=d4d52b3f11089f28c84dd0f1eba1a74e
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-翡翠台,http://a.ru8.dpdns.org/now/81/master.m3u8
 翡翠台,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=21&token=d4d52b3f11089f28c84dd0f1eba1a74e
 明珠台,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=22&token=d4d52b3f11089f28c84dd0f1eba1a74e
-无线新闻,http://a.ru8.dpdns.org/now/83/master.m3u8
 无线新闻,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=16&token=d4d52b3f11089f28c84dd0f1eba1a74e
-NOW新闻,http://a.ru8.dpdns.org/now/332/master.m3u8
 NOW新闻,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=31&token=d4d52b3f11089f28c84dd0f1eba1a74e
-NOW财经,http://a.ru8.dpdns.org/now/333/master.m3u8
 NOW财经,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=32&token=d4d52b3f11089f28c84dd0f1eba1a74e
-NOW华剧台,http://a.ru8.dpdns.org/now/105/master.m3u8
-NOW SPORTS PRIME,http://a.ru8.dpdns.org/now/630/master.m3u8
 NOW SPORTS PRIME,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=33&token=d4d52b3f11089f28c84dd0f1eba1a74e
-HOY76,http://a.ru8.dpdns.org/now/76/master.m3u8
 HOY76,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=36&token=d4d52b3f11089f28c84dd0f1eba1a74e
-HOY77,http://a.ru8.dpdns.org/now/77/master.m3u8
-HOY77,http://cdn.163189.xyz/live/hoy/stream.m3u8
-HOY78,http://a.ru8.dpdns.org/now/78/master.m3u8
 HOY78,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=6&token=d4d52b3f11089f28c84dd0f1eba1a74e
 HOY78,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=38&token=d4d52b3f11089f28c84dd0f1eba1a74e
-VIU TV,http://a.ru8.dpdns.org/now/99/master.m3u8
-VIU TV,http://a.ru8.dpdns.org/now/999/master.m3u8
 VIU TV,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=28&token=d4d52b3f11089f28c84dd0f1eba1a74e
-VIU TV6,http://a.ru8.dpdns.org/now/96/master.m3u8
 VIU TV6,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=29&token=d4d52b3f11089f28c84dd0f1eba1a74e
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK31,http://cdn.132.us.kg/live/rthk31/stream.m3u8
 RTHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
-RTHK31,https://cdn.163189.xyz/live/rthk31/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
@@ -232,9 +211,7 @@ TVB娱乐新闻,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=24&tok
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://cdn5.163189.xyz/live/asam/stream.m3u8
-澳门Macau,http://cdn.163189.xyz/live/as/stream.m3u8
 澳门Macau,http://cdn5.163189.xyz/live/as/stream.m3u8
 
 🇨🇳央视,#genre#
@@ -441,7 +418,6 @@ BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 D,http://43.143.112.172:8168/tv/iptvapp.php?tid=wintv123&id=113&token=d4d52b3f11089f28c84dd0f1eba1a74e
 
 📰纪录,#genre#
-求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 newtv军事评论,http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8
 
 
