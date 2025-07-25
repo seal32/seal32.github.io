@@ -119,7 +119,6 @@ CCTV13,http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
-广东珠江,http://113.103.52.51:8686/udp/239.77.0.1:5146
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
@@ -169,13 +168,13 @@ CCTV16,http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
 
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育,http://113.103.52.51:8686/udp/239.77.0.112:5146
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 超级体育,http://39.134.65.198/PLTV/88888888/224/3221225635/1.m3u8
 精品体育,http://39.134.65.6:80/wh7f454c46tw1933117244_-1636594045/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=29
 
 🇭🇰港台,#genre#
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
