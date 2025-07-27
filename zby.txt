@@ -30,6 +30,7 @@
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://api.mytv666.top/api/hk.php?id=3437643561316430306564303532666566613235653961373961303464386662267469643d74762669643d3235
 无线新闻,http://api.mytv666.top/api/hk.php?id=6264343831353330323337393639393931616235303439316135313462356130267469643d77696e74763132332669643d3136
+无线新闻,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 
 翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -418,6 +419,7 @@ BBC NEWS,http://api.mytv666.top/api/hk.php?id=6439336265303632383566343461326233
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 FOX NEWS,http://api.mytv666.top/api/hk.php?id=3235346463643265363264313532353732653563336239333764633039393761267469643d77696e74763132332669643d313037
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 📰纪录,#genre#
 newtv军事评论,http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8
