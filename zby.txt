@@ -86,9 +86,7 @@ CCTV13,http://222.95.140.66:58888/udp/239.49.8.109:8000
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
-广东珠江,http://live.xmcdn.com/live/252/64.m3u8
-广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
-广东珠江,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
+
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
@@ -112,8 +110,6 @@ CCTV16-4K,http://www.li0580.top:4022/udp/233.50.201.63:5140
 🇭🇰港台,#genre#
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d
-中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
