@@ -1,5 +1,7 @@
 ﻿💝常看,#genre#
 凤凰中文,http://222.212.84.190:54123/udp/239.93.1.9:2192
+凤凰中文,http://uo202.1985001.xyz:66/udp/239.93.1.9:2192
+凤凰中文,http://uo202.1985001.xyz:66/udp/239.93.0.162:2192
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -8,6 +10,8 @@
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
 凤凰资讯,http://222.212.84.190:54123/udp/239.93.1.4:2191
+凤凰资讯,http://uo202.1985001.xyz:66/udp/239.93.1.4:2191
+凤凰资讯,http://uo202.1985001.xyz:66/udp/239.93.0.118:2191
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
@@ -103,6 +107,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 🇭🇰港台,#genre#
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
