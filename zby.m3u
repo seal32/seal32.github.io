@@ -50,9 +50,9 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-http://tlive24.uk/livehttpplay?channel_id=20163
+http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台",东森新闻
