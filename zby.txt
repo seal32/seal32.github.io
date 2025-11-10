@@ -105,6 +105,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 
 🇭🇰港台,#genre#
+中天新闻,https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.m3u8
 中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
 中天新闻,http://cnlive.org/channel/41d8a09d/index.m3u8
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
