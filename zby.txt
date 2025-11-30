@@ -107,6 +107,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 中天新闻,https://live.catvod.com/live.php?id=ctinews&token=f8f6ac1229f2f646582ea2990ce7de5accc12d68fe6f7d652e45c07b0bf10f90%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 东森新闻,https://live.catvod.com/iptv.php?id=ds_xw
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://live.catvod.com/iptv.php?id=now_xw
@@ -265,6 +266,10 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+france24,https://live.catvod.com/live.php?id=france24_twn&token=c37dd9db45cad759b0081914a9701461eaf977b1a714ac99f4e89a7aff444373%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+skynews,https://live.catvod.com/live.php?id=skynews_twn&token=fcb79bbbd1775b4d6b6377b407cf5201090988a5fcb62864486147f776c34130%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+abcnews,https://live.catvod.com/live.php?id=abcnews_glo&token=233f7569aa0e5fafafa9c8a2a293f2dddbbb9a057ec5aaa3c873a3a6c4a07c62%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+DW,https://live.catvod.com/live.php?id=dw_twn&token=fc3d684d3abdf2cf0060b9be023ba338c17d5a6610fda1c7f13729c97f0a6e74%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 ⚙测试,#genre#
 
