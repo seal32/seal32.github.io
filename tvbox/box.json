@@ -3,7 +3,7 @@
 
 //爬虫文件地址：
 {
-"spider":"https://tv.seal32.cn/tvbox/box.jpg;md5;a498725399158b7c272090aac796bfb6",
+"spider":"https://tv.seal32.cn/tvbox/box.jpg;md5;403a59bd559cc36fe67544e5de66e774",
 
 //直播源地址：
 "lives":
@@ -27,6 +27,7 @@
 {"key":"奥特","name":"🏝奥特┃多线","type":3,"api":"csp_AueteGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
+
 {"key":"超全","name":"⚽超全┃看球","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
 "ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
 {"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
