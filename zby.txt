@@ -102,8 +102,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 
 🇭🇰港台,#genre#
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=f8f6ac1229f2f646582ea2990ce7de5accc12d68fe6f7d652e45c07b0bf10f90%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+中天新闻,https://live.catvod.com/live.php?id=ctinews&token=af9c1a37c5e5da4d9782962b13ae6a5d31c76c278cec958f3b7633f0605cf3aa%3A1765019515%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8

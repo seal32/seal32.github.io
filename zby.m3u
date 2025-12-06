@@ -50,13 +50,13 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-
+https://live.catvod.com/live.php?id=ctinews&token=af9c1a37c5e5da4d9782962b13ae6a5d31c76c278cec958f3b7633f0605cf3aa%3A1765019515%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-http://bxtv.3a.ink/api.php?id=ztxw
+
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻
-
+https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台",东森新闻
-
+https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",NOW新闻
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",HOY77
