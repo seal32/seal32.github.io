@@ -84,6 +84,7 @@ CCTV13,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LI
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+广东珠江,https://live.catvod.com/iptv.php?id=gdzj01&token=1a8203e93c84434616e799a3b325e0950893c40d53298fac8013a7d68bf5e385%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -100,6 +101,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+广东体育,https://live.catvod.com/iptv.php?id=gdty01&token=2b37fa1145466f6dd1cb9a55a068cee3e2d3118ad21f76718ba8e4ccc35e94bf%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 🇭🇰港台,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
@@ -112,6 +114,7 @@ TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=ec4e8829f9db8366ebd0
 TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,https://live.catvod.com/iptv.php?id=nownews&token=7bb1ee3d525e9e2d76cc06e261cfe18f78de2483d3a38a6e1babe5b9a5277447%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
