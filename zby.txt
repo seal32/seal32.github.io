@@ -103,10 +103,12 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 
 🇭🇰港台,#genre#
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
+中天新闻,https://live.catvod.com/live.php?id=ctinews&token=9a6bbe86a48fa82b06310b5f6cad59d5cdac22197246f8cf5ab50029d703801b%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 中天新闻,https://live.catvod.com/live.php?id=ctinews&token=af9c1a37c5e5da4d9782962b13ae6a5d31c76c278cec958f3b7633f0605cf3aa%3A1765019515%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 中天新闻,https://live.catvod.com/live.php?id=ctinews&token=384b30f3eaf995a24d8f6f14f0d54abe6f5b01af75a90a3fc1591ceabcfa52a6%3A1765277399%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-中天新闻,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=a204bddb606f23a471094735e4d3261ce6178768e8d4acbcbbd3145a35432a38%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=ec4e8829f9db8366ebd0d8bebfd291c8800bc2e2b9d5480797f248f62ddf6e48%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
