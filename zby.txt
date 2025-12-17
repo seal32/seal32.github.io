@@ -103,9 +103,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,https://live.catvod.com/iptv.php?id=gdty01&token=2b37fa1145466f6dd1cb9a55a068cee3e2d3118ad21f76718ba8e4ccc35e94bf%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 🇭🇰港台,#genre#
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=9a6bbe86a48fa82b06310b5f6cad59d5cdac22197246f8cf5ab50029d703801b%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=af9c1a37c5e5da4d9782962b13ae6a5d31c76c278cec958f3b7633f0605cf3aa%3A1765019515%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=384b30f3eaf995a24d8f6f14f0d54abe6f5b01af75a90a3fc1591ceabcfa52a6%3A1765277399%3AMTE5LjM0LjE2Mi42NQ%3D%3D
+中天新闻,https://live.catvod.com/live.php?id=ctinews&token=b36176ff8bc69154617f5e070096fa121331c424c90b737bf26cfb531b3e08b1%3A1765967365%3AMTgzLjIzNi4zNy4xNjQ%3D
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=a204bddb606f23a471094735e4d3261ce6178768e8d4acbcbbd3145a35432a38%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
