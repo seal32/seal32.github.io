@@ -103,6 +103,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,https://live.catvod.com/iptv.php?id=gdty01&token=2b37fa1145466f6dd1cb9a55a068cee3e2d3118ad21f76718ba8e4ccc35e94bf%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 🇭🇰港台,#genre#
+中天新闻,http://8.iptv543.com:50009/li-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,https://live.catvod.com/live.php?id=ctinews&token=b36176ff8bc69154617f5e070096fa121331c424c90b737bf26cfb531b3e08b1%3A1765967365%3AMTgzLjIzNi4zNy4xNjQ%3D
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=a204bddb606f23a471094735e4d3261ce6178768e8d4acbcbbd3145a35432a38%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
