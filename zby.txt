@@ -7,44 +7,41 @@
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
-无线新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 
 翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://r.jdshipin.com/qrfbg
 
 CCTV1,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
@@ -83,7 +80,6 @@ CCTV13,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LI
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
-广东珠江,https://live.catvod.com/iptv.php?id=gdzj01&token=1a8203e93c84434616e799a3b325e0950893c40d53298fac8013a7d68bf5e385%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -100,19 +96,11 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-广东体育,https://live.catvod.com/iptv.php?id=gdty01&token=2b37fa1145466f6dd1cb9a55a068cee3e2d3118ad21f76718ba8e4ccc35e94bf%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 🇭🇰港台,#genre#
 中天新闻,http://8.iptv543.com:50009/li-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,https://live.catvod.com/live.php?id=ctinews&token=b36176ff8bc69154617f5e070096fa121331c424c90b737bf26cfb531b3e08b1%3A1765967365%3AMTgzLjIzNi4zNy4xNjQ%3D
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=a204bddb606f23a471094735e4d3261ce6178768e8d4acbcbbd3145a35432a38%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-东森新闻,https://live.catvod.com/live.php?id=ettvnews&token=75cd8e6012c993917d9226064dfbf5ba914099caa68414da88b9a384601a2632%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=ec4e8829f9db8366ebd0d8bebfd291c8800bc2e2b9d5480797f248f62ddf6e48%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-TVBS新闻,https://live.catvod.com/live.php?id=tvbs_n&token=2843a8610349c6a36e46a61a10f6158c9260afa146bcfb5951b73541639542c3%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
-Now新闻,https://live.catvod.com/iptv.php?id=nownews&token=7bb1ee3d525e9e2d76cc06e261cfe18f78de2483d3a38a6e1babe5b9a5277447%3A1765338716%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 HOY77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
@@ -130,72 +118,6 @@ VIU TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-
-🇨🇳央视,#genre#
-CCTV1,http://uo202.1985001.xyz:66/udp/239.93.0.184:5140
-CCTV1,http://uo202.1985001.xyz:66/udp/239.93.42.59:5140
-CCTV2,http://uo202.1985001.xyz:66/udp/239.93.1.23:6000
-CCTV3,http://uo202.1985001.xyz:66/udp/239.93.1.11:2223
-CCTV4,http://uo202.1985001.xyz:66/udp/239.93.1.105:5140
-CCTV5,http://uo202.1985001.xyz:66/udp/239.93.42.37:5140
-CCTV5,http://uo202.1985001.xyz:66/udp/239.93.1.12:2224
-CCTV5+,http://uo202.1985001.xyz:66/udp/239.93.1.36:8004
-CCTV6,http://uo202.1985001.xyz:66/udp/239.93.1.13:2226
-CCTV7,http://uo202.1985001.xyz:66/udp/239.93.1.67:5140
-CCTV8,http://uo202.1985001.xyz:66/udp/239.93.42.39:5140
-CCTV9,http://uo202.1985001.xyz:66/udp/239.93.1.24:5140
-CCTV10,http://uo202.1985001.xyz:66/udp/239.93.1.28:5140
-CCTV11,http://uo202.1985001.xyz:66/udp/239.93.0.102:5140
-CCTV12,http://uo202.1985001.xyz:66/udp/239.93.1.30:8124
-CCTV13,http://uo202.1985001.xyz:66/udp/239.93.0.66:5140
-CCTV14,http://uo202.1985001.xyz:66/udp/239.93.1.29:6000
-CCTV15,http://uo202.1985001.xyz:66/udp/239.93.0.103:5140
-CCTV16,http://uo202.1985001.xyz:66/udp/239.93.42.54:5140
-CCTV17,http://uo202.1985001.xyz:66/udp/239.93.0.92:5140
-
-📡卫视,#genre#
-广东卫视,http://uo202.1985001.xyz:66/udp/239.93.0.181:5140
-深圳卫视,http://uo202.1985001.xyz:66/udp/239.93.0.182:5140
-北京卫视,http://uo202.1985001.xyz:66/udp/239.93.0.180:5140
-东方卫视,http://uo202.1985001.xyz:66/udp/239.93.0.123:5140
-湖南卫视,http://uo202.1985001.xyz:66/udp/239.93.0.88:5140
-浙江卫视,http://uo202.1985001.xyz:66/udp/239.93.0.124:5140
-安徽卫视,http://uo202.1985001.xyz:66/udp/239.93.1.106:5140
-兵团卫视,http://uo202.1985001.xyz:66/udp/239.93.42.43:5140
-东南卫视,http://uo202.1985001.xyz:66/udp/239.93.0.42:5140
-甘肃卫视,http://uo202.1985001.xyz:66/udp/239.93.0.81:5140
-广西卫视,http://uo202.1985001.xyz:66/udp/239.93.42.46:5140
-贵州卫视,http://uo202.1985001.xyz:66/udp/239.93.0.131:5140
-海南卫视,http://uo202.1985001.xyz:66/udp/239.93.0.80:5140
-河北卫视,http://uo202.1985001.xyz:66/udp/239.93.0.132:5140
-河南卫视,http://uo202.1985001.xyz:66/udp/239.93.42.45:5140
-黑龙江卫视,http://uo202.1985001.xyz:66/udp/239.93.0.183:5140
-湖北卫视,http://uo202.1985001.xyz:66/udp/239.93.0.250:5140
-吉林卫视,http://uo202.1985001.xyz:66/udp/239.93.0.248:5140
-江苏卫视,http://uo202.1985001.xyz:66/udp/239.93.0.89:5140
-江西卫视,http://uo202.1985001.xyz:66/udp/239.93.0.134:5140
-康巴卫视,http://uo202.1985001.xyz:66/udp/239.93.0.41:5140
-辽宁卫视,http://uo202.1985001.xyz:66/udp/239.93.1.108:5140
-内蒙古卫视,http://uo202.1985001.xyz:66/udp/239.93.0.8:5140
-宁夏卫视,http://uo202.1985001.xyz:66/udp/239.93.0.247:5140
-农林卫视,http://uo202.1985001.xyz:66/udp/239.93.0.100:5140
-青海卫视,http://uo202.1985001.xyz:66/udp/239.93.0.192:5140
-三沙卫视,http://uo202.1985001.xyz:66/udp/239.93.42.58:5140
-厦门卫视,http://uo202.1985001.xyz:66/udp/239.93.42.57:5140
-山东卫视,http://uo202.1985001.xyz:66/udp/239.93.0.168:5140
-山西卫视,http://uo202.1985001.xyz:66/udp/239.93.0.6:5140
-陕西卫视,http://uo202.1985001.xyz:66/udp/239.93.0.176:5140
-四川卫视,http://uo202.1985001.xyz:66/udp/239.93.0.169:5140
-四川卫视,http://uo202.1985001.xyz:66/udp/239.93.0.20:1235
-四川卫视,http://uo202.1985001.xyz:66/udp/239.93.1.188:5140
-四川卫视,http://uo202.1985001.xyz:66/udp/239.93.42.60:5140
-天津卫视,http://uo202.1985001.xyz:66/udp/239.93.0.167:5140
-西藏卫视,http://uo202.1985001.xyz:66/udp/239.93.0.175:5140
-新疆卫视,http://uo202.1985001.xyz:66/udp/239.93.0.194:5140
-延边卫视,http://uo202.1985001.xyz:66/udp/239.93.0.249:5140
-云南卫视,http://uo202.1985001.xyz:66/udp/239.93.0.174:5140
-云南卫视,http://uo202.1985001.xyz:66/udp/239.93.1.174:5140
-重庆卫视,http://uo202.1985001.xyz:66/udp/239.93.1.107:5140
 
 🌺珠江宽频,#genre#
 凤凰卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -353,16 +275,16 @@ CCTV-文化精品,http://183.236.43.98:4013/udp/239.253.43.13:5146
 CGTN纪录,http://183.236.43.98:4013/udp/239.253.43.122:5146
 CGTN英语,http://183.236.43.98:4013/udp/239.77.0.199:5146
 
+🇨🇳央视,#genre#
+
+📡卫视,#genre#
+
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-france24,https://live.catvod.com/live.php?id=france24_twn&token=c37dd9db45cad759b0081914a9701461eaf977b1a714ac99f4e89a7aff444373%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-skynews,https://live.catvod.com/live.php?id=skynews_twn&token=fcb79bbbd1775b4d6b6377b407cf5201090988a5fcb62864486147f776c34130%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-abcnews,https://live.catvod.com/live.php?id=abcnews_glo&token=233f7569aa0e5fafafa9c8a2a293f2dddbbb9a057ec5aaa3c873a3a6c4a07c62%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
-DW,https://live.catvod.com/live.php?id=dw_twn&token=fc3d684d3abdf2cf0060b9be023ba338c17d5a6610fda1c7f13729c97f0a6e74%3A1764425134%3AMTE5LjM0LjE2Mi42NQ%3D%3D
 
 
 
