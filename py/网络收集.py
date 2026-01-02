@@ -306,7 +306,7 @@ excluded_keywords = ['epg', 'mitv', 'rtp', 'p3p', '新闻综合', 'P3p', 'jdship
                      '22:8891', 'fanmingming', '43:22222', '50.7.234', 'cdn.iptv8k', 'youtube', '4gtv', 'tvgslb', 'cici2012', 'etv.xhgvip', 'free.xiptv', 'www.zhixun', 'xg.52sw', 'iptv.yjxfz.com', 'zb.qc', '/vd', '/TV2/']   #, '/TV2/'
 
 # 定义一个包含所有要提取的关键词的列表
-extract_keywords = ['翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '凤凰卫视', '中天新闻', '中天亚洲', '无线新闻', 'CCTV1', 'CCTV4', 'CCTV9', 'CCTV13', 'CCTV5', 'CCTV5+', 'CCTV16', '广州综合', '广州新闻', '广州影视', '广东珠江', '广东卫视', '', '广东体育', '', '', '', '', 'HOY TV', 'NOW新闻', 'RTHK31', '', 'TVBS新闻', '东森新闻', '深圳卫视', '江苏卫视', '湖南卫视', '东方卫视', '北京卫视', '浙江卫视', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'CNN', 'ABC News', 'Global News', 'FOX News ', 'BBC News']
+extract_keywords = ['翡翠台', '凤凰香港', '凤凰中文', '凤凰资讯', '凤凰卫视', '中天新闻', '中天亚洲', '无线新闻', 'TVB', 'viu', '中视', '公视', '台视', '华视', 'CCTV', '广州综合', '广州新闻', '广州影视', '广东珠江', '南国都市', '广东卫视', '广东体育', '新视觉', 'CHC', '足球', '体育', 'HOY', 'NOW', 'RTHK', '澳门', 'TVBS新闻', '东森新闻', '深圳卫视', '江苏卫视', '湖南卫视', '东方卫视', '北京卫视', '浙江卫视', '青海卫视', '东南卫视', '天津卫视', '辽宁卫视', '四川卫视', '江西卫视', '贵州卫视', '湖北卫视', '重庆卫视', '河北卫视', '甘肃卫视', '云南卫视', '吉林卫视', '河南卫视', '山东卫视', '金鹰卡通', '安徽卫视', '广西卫视', '海南卫视', '大湾区卫视', 'CNN', 'ABC', 'Global News', 'FOX', 'BBC']
 
 
 # 读取文件并处理每一行
@@ -621,12 +621,16 @@ channels = {
 for line in lines:
       line_lower = line.lower()   #将文本转换为小写以便进行匹配
       line=line.replace(': ',' , ')
-      if "凤凰中文" in line_lower or "凤凰资讯" in line_lower or "凤凰香港" in line_lower or "翡翠台" in line_lower or "无线新闻" in line_lower or "广州新闻" in line_lower or "广州综合" in line_lower or "广州影视" in line_lower or "广东珠江" in line_lower or "CCTV1" in line_lower or "CCTV4" in line_lower or "CCTV9" in line_lower or "CCTV13" in line_lower:
+      if "凤凰" in line_lower or "翡翠台" in line_lower or "无线新闻" in line_lower or "广州新闻" in line_lower or "广州综合" in line_lower or "广州影视" in line_lower or "广东珠江" in line_lower:
          channels["💝常看"].append(line.strip())
-      elif "cctv5" in line_lower or "cctv5+" in line_lower or "cctv16" in line_lower or "广东体育" in line_lower:
+      elif "cctv5" in line_lower or "cctv5+" in line_lower or "cctv16" in line_lower or "体育" in line_lower  or "足球" in line_lower or "竞赛" in line_lower:
          channels["⛹️体育"].append(line.strip()) 
-      elif "中天新闻" in line_lower or "中天亚洲" in line_lower or "东森新闻" in line_lower or "TVBS新闻" in line_lower  or "HOY TV" in line_lower or "rthk31" in line_lower or "now新闻" in line_lower:
+      elif "中天" in line_lower or "中视" in line_lower or "台视" in line_lower or "华视" in line_lower  or "hoy" in line_lower or "rthk" in line_lower or "now" in line_lower or "tvb" in line_lower or "viu" in line_lower or "tvbs新闻" in line_lower or "东森新闻" in line_lower or "寰宇新闻" in line_lower:
          channels["🇭🇰港台"].append(line.strip()) 
+      elif "cctv" in line_lower:
+          channels["🇨🇳央视"].append(line.strip())
+      elif "卫视" in line_lower:
+          channels["📡卫视"].append(line.strip())
       elif "cnn" in line_lower or "global news" in line_lower or "bbc news" in line_lower or "fox news" in line_lower  or "abc news" in line_lower:
           channels["🌏外国"].append(line.strip())
       else:
