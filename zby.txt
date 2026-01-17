@@ -97,8 +97,7 @@ CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LI
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 
 🇭🇰港台,#genre#
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
-中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻,https://cdn.163189.xyz/163189/now
