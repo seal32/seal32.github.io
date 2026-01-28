@@ -26,8 +26,8 @@ from translate import Translator  # 导入Translator类,用于文本翻译
 urls = [
        'https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
        'https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt',
-       '',
-       '',
+       'http://gc.gt.tc/o/i/HKTV.txt',
+       'https://tv123.cc.cd/iptvpro.txt',
        '',
        '',
        '',
