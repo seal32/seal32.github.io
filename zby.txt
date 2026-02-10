@@ -1,21 +1,22 @@
 ﻿💝常看,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 
 凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻,https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 
 翡翠台,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/tvbp/
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 
 CCTV1,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
@@ -66,15 +67,23 @@ CCTV5,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LI
 CCTV5+,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 
 🇭🇰港台,#genre#
+TVB新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,http://hls.168.us.kg/u/31/master.m3u8
 RTHK31,http://rihou.cc:555/tv/[Cx]RTHK-31
 RTHK31,http://rihou.cc:555/tv/[Mt]RTHK-31
-
+澳视澳门,http://r.jdshipin.com/n2YZI
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳门Macau,http://r.jdshipin.com/QFhCq
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 
 🌺珠江,#genre#
@@ -142,29 +151,35 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 茶频道,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 ⚙测试,#genre#
-CCTV1,http://222.125.172.198:8081/hls/1/index.m3u8
-CCTV2,http://222.125.172.198:8081/hls/2/index.m3u8
-CCTV3,http://222.125.172.198:8081/hls/3/index.m3u8
-CCTV4,http://222.125.172.198:8081/hls/4/index.m3u8
-CCTV5,http://222.125.172.198:8081/hls/5/index.m3u8
-CCTV5+,http://222.125.172.198:8081/hls/34/index.m3u8
-CCTV6,http://222.125.172.198:8081/hls/6/index.m3u8
-CCTV7,http://222.125.172.198:8081/hls/7/index.m3u8
-CCTV8,http://222.125.172.198:8081/hls/8/index.m3u8
-CCTV9,http://222.125.172.198:8081/hls/9/index.m3u8
-CCTV10,http://222.125.172.198:8081/hls/10/index.m3u8
-CCTV11,http://222.125.172.198:8081/hls/11/index.m3u8
-CCTV12,http://222.125.172.198:8081/hls/12/index.m3u8
-CCTV14,http://222.125.172.198:8081/hls/14/index.m3u8
-CCTV15,http://222.125.172.198:8081/hls/15/index.m3u8
-广东珠江,http://222.125.172.198:8081/hls/33/index.m3u8
-广东卫视,http://222.125.172.198:8081/hls/17/index.m3u8
-深圳卫视,http://222.125.172.198:8081/hls/21/index.m3u8
-浙江卫视,http://222.125.172.198:8081/hls/18/index.m3u8
-江苏卫视,http://222.125.172.198:8081/hls/19/index.m3u8
-北京卫视,http://222.125.172.198:8081/hls/20/index.m3u8
-东方卫视,http://222.125.172.198:8081/hls/26/index.m3u8
-湖南卫视,http://222.125.172.198:8081/hls/16/index.m3u8
+广东卫视,http://58.253.171.52:8188/udp/239.0.1.1:5001
+深圳卫视,http://58.253.171.52:8188/udp/239.0.1.84:8020
+广东4K超高清,http://58.253.171.52:8188/udp/239.0.1.169:6030
+广东珠江频道,http://58.253.171.52:8188/udp/239.0.1.133:5172
+广东体育频道,http://58.253.171.52:8188/udp/239.0.1.95:5057
+广东大湾区卫视,http://58.253.171.52:8188/udp/239.0.1.52:5009
+CCTV-1综合,http://58.253.171.52:8188/udp/239.0.1.3:8008
+CCTV-2财经,http://58.253.171.52:8188/udp/239.0.1.4:8084
+CCTV-3综艺,http://58.253.171.52:8188/udp/239.0.1.177:6037
+CCTV-4中文国际,http://58.253.171.52:8188/udp/239.0.1.180:6040
+CCTV-5体育,http://58.253.171.52:8188/udp/239.0.1.175:6035
+CCTV-5+体育赛事,http://58.253.171.52:8188/udp/239.0.1.101:8004
+CCTV-6电影,http://58.253.171.52:8188/udp/239.0.1.176:6036
+CCTV-7国防军事,http://58.253.171.52:8188/udp/239.0.1.96:8104
+CCTV-8电视剧,http://58.253.171.52:8188/udp/239.0.1.174:6034
+CCTV-9纪录,http://58.253.171.52:8188/udp/239.0.1.97:8112
+CCTV-10科教,http://58.253.171.52:8188/udp/239.0.1.98:8116
+CCTV-11戏曲,http://58.253.171.52:8188/udp/239.0.1.71:5400
+CCTV-12社会与法,http://58.253.171.52:8188/udp/239.0.1.99:8124
+CCTV-13新闻,http://58.253.171.52:8188/udp/239.0.1.73:8264
+CCTV-14少儿,http://58.253.171.52:8188/udp/239.0.1.100:8132
+CCTV-15音乐,http://58.253.171.52:8188/udp/239.0.1.75:8052
+CCTV-17农业农村,http://58.253.171.52:8188/udp/239.0.1.192:9264
+浙江卫视,http://58.253.171.52:8188/udp/239.0.1.79:1234
+湖南卫视,http://58.253.171.52:8188/udp/239.0.1.78:8012
+江苏卫视,http://58.253.171.52:8188/udp/239.0.1.80:8028
+东方卫视,http://58.253.171.52:8188/udp/239.0.1.82:8032
+北京卫视,http://58.253.171.52:8188/udp/239.0.1.83:8024
+金鹰纪实,http://58.253.171.52:8188/udp/239.0.1.92:5094
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
