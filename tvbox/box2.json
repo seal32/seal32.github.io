@@ -10,32 +10,381 @@
 
 //资源站点：
 "sites":[
-{"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"爱奇艺","name":"爱奇艺","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/aqy.js"},
-{"key":"优酷","name":"优酷","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/yk.js"},
-{"key":"腾讯","name":"腾讯","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/tx.js"},
-{"key":"搜狗","name":"搜狗","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/sg.js"},
-{"key":"MGTV","name":"MGTV","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/mgtv.js"},
-{"key":"bili","name":"bili","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/bili.js"},
-{"key":"ikanbot","name":"ikanbot","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/ik.js"},
-{"key":"采集之王","name":"采集之王","type":3,"api":"https://tvbox.catvod.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"},
-
+        {
+            "key": "360影视",
+            "name": "360影视",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/aqy.js"
+        },
+        {
+            "key": "优酷",
+            "name": "优酷",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/yk.js"
+        },
+        {
+            "key": "腾讯",
+            "name": "腾讯",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/tx.js"
+        },
+        {
+            "key": "搜狗",
+            "name": "搜狗",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/sg.js"
+        },
+        {
+            "key": "MGTV",
+            "name": "MGTV",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/mgtv.js"
+        },
+        {
+            "key": "bili",
+            "name": "bili",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/bili.js"
+        },
+        {
+            "key": "ikanbot",
+            "name": "ikanbot",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/ik.js"
+        },
+        {
+            "key": "采集之王",
+            "name": "采集之王",
+            "type": 3,
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "order_num": 142,
+            "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
+        },
+        {
+            "key": "聚合直播",
+            "name": "聚合直播",
+            "type": 3,
+            "api": "csp_Living",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "快看",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "新6V",
+            "name": "新6V",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "电影港",
+            "name": "电影港",
+            "type": 3,
+            "api": "csp_DyGang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Xunlei8",
+            "name": "Xunlei8",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "小红影视",
+            "name": "小红影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/xiaohys.json"
+        },
+        {
+            "key": "天龙",
+            "name": "天龙",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/tianlong.json"
+        },
+        {
+            "key": "天天",
+            "name": "天天",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/tiantian.json"
+        },
+        {
+            "key": "旺旺",
+            "name": "旺旺",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/wangwang.json"
+        },
+        {
+            "key": "4k",
+            "name": "4k",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/4k.json"
+        },
+        {
+            "key": "晴天",
+            "name": "晴天",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/qingtian.json"
+        },
+        {
+            "key": "heihu",
+            "name": "黑狐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/heihu.json"
+        },
+        {
+            "key": "5555kan",
+            "name": "55影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/5555kan.json"
+        },
+        {
+            "key": "guangun",
+            "name": "光棍",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/guangun.json"
+        },
+        {
+            "key": "qiyou",
+            "name": "奇优",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/qiyou.json"
+        },
+        {
+            "key": "77ys",
+            "name": "77影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/77ys.json"
+        },
+        {
+            "key": "pianba",
+            "name": "片吧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/pianba.json"
+        },
+        {
+            "key": "Movies",
+            "name": "Movies",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/Movies.json"
+        },
+        {
+            "key": "sdsrty",
+            "name": "影视大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/sdsrty.json"
+        },
+        {
+            "key": "db",
+            "name": "电波",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tvbox.catvod.com/js/db.json"
+        },
+        {
+            "key": "急救",
+            "name": "急救",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "推送",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://127.0.0.1:9978/file/tv/token.txt"
+        },
+        {
+            "key": "本地",
+            "name": "本地",
+            "type": 3,
+            "api": "csp_Local",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    
 //
 {"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片"]},
 
 {"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
 ],
 
-"parses":[
-{"name":"VIP1","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"VIP2","type":0,"url":"https://t1.qlplayer.cyou/player/?url="},
-{"name":"VIP3","type":0,"url":"https://jx.m3u8.tv/jx/jx.php?url="},
-{"name":"VIP4","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
-{"name":"VIP5","type":0,"url":"https://player.mrgaocloud.com/player/?url="},
-{"name":"VIP6","type":0,"url":"https://jx.yangtu.top/?url="},
-{"name":"VIP7","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
-{"name":"VIP8","type":0,"url":"https://jx.2s0.cn/player/?url="}
-],
-"flags":
-["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","migu","migo","alivc","1905","douyin","xigua","leshi","bilibili","renrenmi"],"hosts":["cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com","cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"]
+
+ 
+   "parses": [
+        {
+            "name": "VIP1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "VIP2",
+            "type": 0,
+            "url": "https://t1.qlplayer.cyou/player/?url="
+        },
+        {
+            "name": "VIP3",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jx/jx.php?url="
+        },
+        {
+            "name": "VIP4",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "VIP5",
+            "type": 0,
+            "url": "https://player.mrgaocloud.com/player/?url="
+        },
+        {
+            "name": "VIP6",
+            "type": 0,
+            "url": "https://jx.yangtu.top/?url="
+        },
+        {
+            "name": "VIP7",
+            "type": 0,
+            "url": "https://www.8090g.cn/jiexi/?url="
+        },
+        {
+            "name": "VIP8",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "migu",
+        "migo",
+        "alivc",
+        "1905",
+        "douyin",
+        "xigua",
+        "leshi",
+        "bilibili",
+        "renrenmi"
+    ],
+    "hosts": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ]
 }
