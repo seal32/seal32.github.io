@@ -27,13 +27,10 @@
 翡翠台,http://o11.163189.xyz/stream/tvb/tvbp/
 
 CCTV1,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV1,http://119.123.176.249:8086/hls/2/index.m3u8
 
 CCTV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV4,http://119.123.176.249:8086/hls/5/index.m3u8
 
 CCTV13,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV13,http://119.123.176.249:8086/hls/14/index.m3u8
 
 广州新闻,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
@@ -64,11 +61,6 @@ CCTV13,http://119.123.176.249:8086/hls/14/index.m3u8
 广东珠江,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东珠江,http://119.123.76.217:8086/hls/47/index.m3u8
-广东珠江,http://119.123.76.242:8086/hls/47/index.m3u8
-广东珠江,http://119.123.176.46:8086/hls/47/index.m3u8
-广东珠江,http://119.123.176.249:8086/hls/47/index.m3u8
-广东珠江,http://119.123.177.183:8086/hls/47/index.m3u8
 
 广州影视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=111&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
@@ -81,20 +73,10 @@ CCTV13,http://119.123.176.249:8086/hls/14/index.m3u8
 
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-CCTV5,http://119.123.176.249:8086/hls/6/index.m3u8
-
 CCTV5+,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV16,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~~V2.0~J9nj7l8SVKmEpJU6hJkbQQ00aae3318f319d670741af5800048d2e~40sW3VwcpONWSNT4h__5EgySJj4dkWOMSuEk-KX2MLA4TgSG4eaw5XAWs9LSIVXYyVk59k7YKcOTDs_drYLm2g634a8c641b8225fe951e25831551dced~%2CEND&GuardEncType=2
-CCTV16,http://119.123.176.249:8086/hls/17/index.m3u8
-
 广东体育,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://119.123.76.217:8086/hls/42/index.m3u8
-广东体育,http://119.123.76.242:8086/hls/42/index.m3u8
-广东体育,http://119.123.176.46:8086/hls/42/index.m3u8
-广东体育,http://119.123.176.249:8086/hls/42/index.m3u8
 
 🇭🇰港台,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -185,6 +167,7 @@ CETV4,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIV
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
