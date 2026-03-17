@@ -24,10 +24,10 @@ from urllib.parse import urlparse
 from translate import Translator  # 导入Translator类,用于文本翻译
 ## 定义txt文件的URL列表
 urls = [
-       'https://gh-proxy.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt',
+       'https://gh-proxy.com/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86',
        'https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt',
-       'http://gc.gt.tc/o/i/HKTV.txt',
-       'https://tv123.cc.cd/iptvpro.txt',
+       'https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt',
+       'http://iptv.4666888.xyz/FYTV.txt',
        '',
        '',
        '',
