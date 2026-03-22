@@ -26,13 +26,13 @@
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://o11.163189.xyz/stream/tvb/tvbp/
 
-CCTV1,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV1,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-CCTV4,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-CCTV13,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-广州新闻,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州新闻,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=dd1b312cc1b5cbe9fad85bf5ddce4b10&txTime=190723b940c
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
@@ -44,7 +44,7 @@ CCTV13,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_c
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=f80e5b7654c57c7571a314d94befe320&txTime=19019c051d5
 
-广州综合,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=120&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州综合,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=120&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=aae0358e06f64d4db4d663321a3fa964&txTime=190def4db74
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
@@ -58,7 +58,7 @@ CCTV13,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_c
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://r.jdshipin.com/snhya
 
-广东珠江,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 
@@ -70,11 +70,11 @@ CCTV13,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_c
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
 
 ⛹️体育,#genre#
-CCTV5,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV5+,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV16,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~~V2.0~J9nj7l8SVKmEpJU6hJkbQQ00aae3318f319d670741af5800048d2e~40sW3VwcpONWSNT4h__5EgySJj4dkWOMSuEk-KX2MLA4TgSG4eaw5XAWs9LSIVXYyVk59k7YKcOTDs_drYLm2g634a8c641b8225fe951e25831551dced~%2CEND&GuardEncType=2
-广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
@@ -158,8 +158,6 @@ CETV4,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ct
 
 ⚙测试,#genre#
 金鹰纪实,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8?accountinfo=~~V2.0~Q20gMYcw5FFnZGcjnjhVAQb964262bcce25cf5bfed3019108757ba~bEHXUSx-wCXGBNJe6W9scHqaUc7sc8uftliT_CooitlpF8vSE0FFo1zFaYdI9-ZZOqlDtd96Xbb1rZoiL2CJjQb41280f49374eef8aede7fe6bc2bf8ac~%2CEND&GuardEncType=2
-动作电影,http://111.56.90.5/000000000000/1000000004000018653/index.m3u8
-黑莓电影,http://111.56.90.5/000000000000/1000000004000019624/index.m3u8
 
 CCTV1,http://111.56.90.5/000000000000/5000000004000002226/index.m3u8
 CCTV1,http://111.56.90.54/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
