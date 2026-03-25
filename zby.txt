@@ -11,6 +11,7 @@
 凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 
 凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 
@@ -23,6 +24,8 @@
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://o11.163189.xyz/stream/tvb/tvbp/
@@ -76,6 +79,8 @@ CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&F
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~~V2.0~J9nj7l8SVKmEpJU6hJkbQQ00aae3318f319d670741af5800048d2e~40sW3VwcpONWSNT4h__5EgySJj4dkWOMSuEk-KX2MLA4TgSG4eaw5XAWs9LSIVXYyVk59k7YKcOTDs_drYLm2g634a8c641b8225fe951e25831551dced~%2CEND&GuardEncType=2
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育,http://r.jdshipin.com/LiYdg
 
 🇭🇰港台,#genre#
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
