@@ -3,6 +3,7 @@
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060
 凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -13,11 +14,13 @@
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰香港,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20065
 凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+无线新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20069
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://cdn6.163189.xyz/163189/fct
@@ -29,6 +32,7 @@
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066
 
 CCTV1,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
@@ -87,8 +91,11 @@ CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20174
+中视新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20171
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+Now新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20082
 HOY77,http://r.jdshipin.com/sFw4S
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,https://cdn.163189.xyz/163189/hoy
