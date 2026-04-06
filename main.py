@@ -183,7 +183,7 @@ def updateChannelUrlsM3U(channels, template_channels):
     written_urls_ipv4 = set()
     written_urls_ipv6 = set()
 
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now().strftime("%Y/%m/%d %H:%M")
     for group in config.announcements:
         for announcement in group['entries']:
             if announcement['name'] is None:

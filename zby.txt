@@ -87,6 +87,7 @@ CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~
 🇭🇰港台,#genre#
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
 东森新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20174
