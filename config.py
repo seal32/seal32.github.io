@@ -1,4 +1,4 @@
-# 配置文件，包含直播源URL、黑名单URL、公告信息、EPG URL、测速超时时间和线程池最大工作线程数
+# 配置文件。包括直播源URL、黑名单URL、公告信息、EPG URL、测速限时和最大工作线程数。
 
 # 优先使用的IP版本，这里设置为ipv4
 ip_version_priority = "ipv4"
@@ -11,42 +11,17 @@ source_urls = [
     "http://iptv.4666888.xyz/FYTV.txt",
     "",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
     "",
     "",
     "",
     "",
     "",
     "",
-    "https://gitee.com/alexkw/app/raw/master/kgk.txt",
-    "https://d.kstore.dev/download/15114/HKTV.txt",
-    "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
-    "http://kkk.888.3116598.xyz/user/HKTV.txt",
-    "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
-    "https://live.kakaxi-1.ink/ipv4.txt",
-    "https://live.kakaxi-1.ink/ipv4.1.txt",
-    "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
-    "https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt",
-    "https://bc.188766.xyz/?url=http://tv123.top:35455&mishitong=true&mima=bingchawusifengxian",
-    "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
-    "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gqds+.txt",
-    "https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt",
-    "https://www.iyouhun.com/tv/myIPTV/ipv6.m3u",
-    "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
-    "http://live.nctv.top/x.txt",   
-    "https://live.izbds.com/tv/iptv4.txt",
-    "https://l.gmbbk.com/upload/39183918.txt",
-    "http://rihou.cc:555/gggg.nzk",
-    "http://1.94.31.214/live/livelite.txt",
-    "http://api.mytv666.top/lives/free.php?type=txt",
-    "http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt",
-    "http://92.112.21.169:30000/mytv.m3u",
-    "http://lisha521.dynv6.net.fh4u.org/tv.txt",
-    "https://web.banye.tech:7777/tv/hlj.txt",
-    "https://iptv.catvod.com/tv.m3u",
-    "https://live.zbds.top/tv/iptv4.txt",
-    "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
-
+    "",
+    "",
+    "",
+    "",
 
 ]
 
@@ -102,8 +77,8 @@ epg_urls = [
     "https://epg.pw/xmltv/epg_HK.xml",
     "https://epg.pw/xmltv/epg_TW.xml"
 ]
-# 测速超时时间（秒）
+# 测速超时（秒）
 TEST_TIMEOUT = 10
 
-# 测速线程池最大工作线程数
+# 测速最大工作线程数
 MAX_WORKERS = 20
