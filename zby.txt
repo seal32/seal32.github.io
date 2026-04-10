@@ -68,11 +68,8 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV5,http://111.56.90.5/000000000000/5000000004000008885/index.m3u8
 CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV5+,http://111.56.90.5/000000000000/5000000011000031127/index.m3u8
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV16,http://111.56.90.5/000000000000/5000000008000023253/index.m3u8
 CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~~V2.0~J9nj7l8SVKmEpJU6hJkbQQ00aae3318f319d670741af5800048d2e~40sW3VwcpONWSNT4h__5EgySJj4dkWOMSuEk-KX2MLA4TgSG4eaw5XAWs9LSIVXYyVk59k7YKcOTDs_drYLm2g634a8c641b8225fe951e25831551dced~%2CEND&GuardEncType=2
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
@@ -158,16 +155,9 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 
 ⚙测试,#genre#
 金鹰纪实,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8?accountinfo=~~V2.0~Q20gMYcw5FFnZGcjnjhVAQb964262bcce25cf5bfed3019108757ba~bEHXUSx-wCXGBNJe6W9scHqaUc7sc8uftliT_CooitlpF8vSE0FFo1zFaYdI9-ZZOqlDtd96Xbb1rZoiL2CJjQb41280f49374eef8aede7fe6bc2bf8ac~%2CEND&GuardEncType=2
-CCTV4K,http://111.56.90.51/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
-CCTV4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
-CCTV4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
-CCTV4K,http://111.56.90.49/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.5/000000000000/5000000004000002226/index.m3u8
-CCTV1,http://111.56.90.54/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.55/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
-CCTV1,http://111.56.90.5/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/1.m3u8?fmt=ts2hls
-CCTV4,http://111.56.90.5/000000000000/5000000011000031102/index.m3u8
-CCTV13,http://111.56.90.5/000000000000/5000000011000031108/1.m3u8
+CCTV1,http://220.176.218.217:9000/udp/239.252.219.200:5140
+CCTV4,http://220.176.218.217:9000/udp/239.252.220.184:5140
+CCTV13,http://220.176.218.217:9000/udp/239.252.219.139:5140
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
