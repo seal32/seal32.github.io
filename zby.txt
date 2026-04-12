@@ -85,6 +85,7 @@ HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77,https://cdn.163189.xyz/163189/hoy
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视澳门,http://cdn6.163189.xyz/163189/asam
@@ -167,9 +168,10 @@ CCTV13,http://60.4.30.55:8077/rtp/239.253.92.13:8008
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 🇨🇳央视,#genre#
