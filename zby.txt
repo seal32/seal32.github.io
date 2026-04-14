@@ -6,6 +6,7 @@
 
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
@@ -156,14 +157,11 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 
 ⚙测试,#genre#
 金鹰纪实,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8?accountinfo=~~V2.0~Q20gMYcw5FFnZGcjnjhVAQb964262bcce25cf5bfed3019108757ba~bEHXUSx-wCXGBNJe6W9scHqaUc7sc8uftliT_CooitlpF8vSE0FFo1zFaYdI9-ZZOqlDtd96Xbb1rZoiL2CJjQb41280f49374eef8aede7fe6bc2bf8ac~%2CEND&GuardEncType=2
+金鹰纪实,http://61.184.46.85:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV1,http://60.4.30.55:8077/rtp/239.253.92.83:8012
-CCTV4,http://60.4.30.55:8077/rtp/239.253.92.251:6141
-CCTV5,http://60.4.30.55:8077/rtp/239.253.92.181:6046
-CCTV5+,http://60.4.30.55:8077/rtp/239.253.92.82:8013
-CCTV7,http://60.4.30.55:8077/rtp/239.253.92.194:6059
-CCTV9,http://60.4.30.55:8077/rtp/239.253.92.107:6020
-CCTV13,http://60.4.30.55:8077/rtp/239.253.92.13:8008
+
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
