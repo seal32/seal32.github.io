@@ -78,6 +78,7 @@ CCTV16,http://rrs04.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8?accountinfo=~
 
 🇭🇰港台,#genre#
 中天新闻,http://rihou.cc:555/tv/hktv/tb19tw0811tw
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS HD,http://rihou.cc:555/tv/hktv/tb19tw0812tw
 Now新闻,https://cdn.163189.xyz/163189/now
