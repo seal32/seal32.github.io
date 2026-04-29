@@ -155,6 +155,29 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 海南卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 ⚙测试,#genre#
+CCTV1,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://171.43.64.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://113.241.133.180:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://171.43.64.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.241.133.180:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://171.43.64.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://171.43.64.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.241.133.180:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://171.43.64.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://113.241.133.180:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://171.43.64.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://113.241.133.180:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://171.43.64.195:85/tsfile/live/faacts/0007_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://113.241.133.180:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://171.43.64.195:85/tsfile/live/faacts/0008_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://113.241.133.180:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://171.43.64.195:85/tsfile/live/faacts/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://113.241.133.180:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://171.43.64.195:85/tsfile/live/faacts/0010_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://113.241.133.180:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://171.43.64.195:85/tsfile/live/faacts/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://171.43.64.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
