@@ -3,11 +3,24 @@
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
+凤凰中文,http://www.negative.top:50000/udp/233.50.202.35:5140
+凤凰中文,http://www.zlizi.cn:4023/udp/239.76.246.134:1234
+凤凰中文,http://www.zlizi.cn:4023/udp/239.76.253.135:9000
+凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
+凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.52:5140
 凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
+凤凰资讯,http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+凤凰资讯,http://www.negative.top:50000/udp/233.50.202.36:514
+凤凰资讯,http://www.zlizi.cn:4023/udp/239.76.246.135:1234
+凤凰资讯,http://www.zlizi.cn:4023/udp/239.76.253.134:9000
+凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.49:5140
+凤凰资讯,http://wan1.tangwudi.cc:47859/udp/239.94.2.50:5140
 
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
@@ -79,6 +92,8 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 Now新闻,https://cdn.163189.xyz/163189/now
@@ -157,3 +172,16 @@ FOX News,http://epicboss.live/bjune@teksavvy.com/5193594414/84
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 ⚙测试,#genre#
+CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.129:5146
+CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.241:5146
+CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.86:5146
+CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.1.144:5146
+CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.1.17:5146
+CCTV1,http://117.8.140.95:4022/udp/225.1.1.120:5002
+CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.0.78:5146
+CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.1.163:5146
+CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.1.166:5146
+CCTV4,http://117.8.140.95:4022/udp/225.1.1.150:5002
+CCTV13,http://liqn.mycloudnas.com:8188/udp/239.77.0.188:5146
+CCTV13,http://liqn.mycloudnas.com:8188/udp/239.253.43.196:5146
+CCTV13,http://117.8.140.95:4022/udp/225.1.2.193:5002
