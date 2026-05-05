@@ -82,6 +82,7 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,http://cdn2.163189.xyz/163189/now
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 HOY77,http://r.jdshipin.com/sFw4S
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
@@ -146,10 +147,13 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 🌏外国,#genre#
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+FOX News,http://epicboss.live/bjune@teksavvy.com/5193594414/84
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 ⚙测试,#genre#
