@@ -89,6 +89,8 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
+中天新闻,http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -169,16 +171,3 @@ FOX News,http://epicboss.live/bjune@teksavvy.com/5193594414/84
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 
 ⚙测试,#genre#
-CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.129:5146
-CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.241:5146
-CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.0.86:5146
-CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.1.144:5146
-CCTV1,http://liqn.mycloudnas.com:8188/udp/239.77.1.17:5146
-CCTV1,http://117.8.140.95:4022/udp/225.1.1.120:5002
-CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.0.78:5146
-CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.1.163:5146
-CCTV4,http://liqn.mycloudnas.com:8188/udp/239.77.1.166:5146
-CCTV4,http://117.8.140.95:4022/udp/225.1.1.150:5002
-CCTV13,http://liqn.mycloudnas.com:8188/udp/239.77.0.188:5146
-CCTV13,http://liqn.mycloudnas.com:8188/udp/239.253.43.196:5146
-CCTV13,http://117.8.140.95:4022/udp/225.1.2.193:5002
