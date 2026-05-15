@@ -71,6 +71,7 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江,http://cdn2.163189.xyz/163189/gdzj
 
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -87,6 +88,7 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://cdn2.163189.xyz/163189/gdty
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
@@ -94,15 +96,30 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+无线新闻,http://cdn6.163189.xyz/163189/wxxw
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,http://cdn2.163189.xyz/163189/now
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-HOY77,http://r.jdshipin.com/sFw4S
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY TV,http://cdn.163189.xyz/163189/hoy
+HOY TV,http://cdn6.163189.xyz/163189/hoy
+HOY TV,http://r.jdshipin.com/sFw4S
+HOY TV,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY资讯,http://cdn.163189.xyz/163189/hoy78
+RTHK31,http://cdn.163189.xyz/163189/rthk31
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK32,http://cdn.163189.xyz/163189/rthk32
+TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
+娱乐新闻台,http://cdn6.163189.xyz/163189/tvb1
+娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
+澳视澳门,http://cdn6.163189.xyz/163189/asam
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳门Macau,http://cdn6.163189.xyz/163189/as
 澳门Macau,http://r.jdshipin.com/QFhCq
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 澳门体育,http://cdn6.163189.xyz/163189/amty
