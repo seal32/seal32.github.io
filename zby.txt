@@ -94,8 +94,12 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 🇭🇰港台,#genre#
 中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+中天新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
+中天新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=1923
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+TVBS新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=738
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+非凡新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=575
 翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
