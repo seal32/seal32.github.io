@@ -92,7 +92,6 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
-中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=1967
 中天新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=1923
