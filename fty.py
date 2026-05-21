@@ -1,6 +1,5 @@
 import requests
 import re
-import demjson3 as demjson
 import json
 import hashlib
 
