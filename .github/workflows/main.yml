@@ -39,8 +39,9 @@ jobs:
     - name: Run Python script  # 执行主脚本
       run: |
         python main.py
-
-    - name: Commit and push if changed  # 如果有更改，则提交并推送
+        python fty.py
+   
+ - name: Commit and push if changed  # 如果有更改，则提交并推送
       run: |
         git config --local user.email "actions@163.com"
         git config --local user.name "GitHub Action Bot"
