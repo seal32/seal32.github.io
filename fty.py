@@ -2,6 +2,7 @@ import requests
 import re
 import json
 import hashlib
+import demjson3 as demjson  # 或使用 demjson
 
 # 创建全局 session 并设置浏览器 UA
 session = requests.Session()
@@ -47,21 +48,23 @@ def clean_data(raw_text):
         './FTY',
         raw_text
     )
+    
+    try:
+        # 尝试标准JSON解析
+        data = json.loads(raw_text)
+    except:
+        # 失败则使用 demjson
+        data = demjson.decode(raw_text)
 
-    data = demjson.decode(raw_text)
-
-    # keywords = [
-    #     "豆", "饭太硬", "广告", "PanSso", "YpanSo", "xzso", "米搜", "夸搜", "Aliso", "YiSo"
-    # ]
-
+    # 如果之前注释的代码要启用，修复如下：
+    # keywords = ["豆", "饭太硬", "广告", "PanSso", "YpanSo", "xzso", "米搜", "夸搜", "Aliso", "YiSo"]
     # original_count = len(data.get("sites", []))
-
     # data["sites"] = [
     #     s for s in data["sites"]
     #     if not any(kw in s.get("key", "") or kw in s.get("name", "") for kw in keywords)
     # ]
-
-    # print(f"🧹 清理 {data - len(data['sites'])} 条 sites")
+    # print(f"🧹 清理 {original_count - len(data['sites'])} 条 sites")
+    
     return data
 
 # 格式美化保存
@@ -89,14 +92,19 @@ def save_json(data, filename="tvbox_cleaned.json"):
 
 # 主流程
 if __name__ == "__main__":
+    import traceback
     try:
         raw_text = fetch_raw_json()
+        print(f"获取到的原始数据长度: {len(raw_text)}")
+        
         extract_and_save_spider(raw_text)
+        
         data = clean_data(raw_text)
-        # 更新 spider 为本地 fan.txt + 最新 MD5
+        print(f"解析成功，包含 {len(data.get('sites', []))} 个站点")
+        
         md5_value = get_md5("fan.txt")
         data["spider"] = f"./fan.txt;md5;{md5_value}"
-        print(f"🔄 spider 已更新为: {data['spider']}")
         save_json(data)
     except Exception as e:
         print(f"❌ 错误: {e}")
+        traceback.print_exc()  # 打印完整错误堆栈
