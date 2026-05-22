@@ -1,0 +1,49 @@
+
+# 工作流的名称，会显示在 GitHub 的 Actions 页面
+name: Update TVbox Schedule 
+
+# 定义触发条件
+on:
+  schedule:
+    - cron: '0 10 * * 1'  # 每周一10点运行 (1-6表示周一到周六, 0/7是周日)
+  workflow_dispatch:  # 允许手动触发工作流
+
+# 定义需要执行的任务
+jobs:
+  run-python-script:
+    # 指定运行环境为最新版 Ubuntu
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第一步：将仓库代码 checkout 到运行环境中
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 第二步：安装 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # 可以根据你的脚本需要选择版本
+
+      # 第三步：安装依赖（可选）
+      # 如果你的 A.PY 需要额外的库（如 requests），需要创建 requirements.txt 并取消下面步骤的注释
+      # - name: Install dependencies
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # 第四步：运行你的 Python 脚本
+      - name: Run fty.py
+        run: python fty.py
+
+    - name: Commit and push if changed  # 如果有更改，则提交并推送
+      run: |
+        git config --local user.email "actions@163.com"
+        git config --local user.name "GitHub Action Bot"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git pull --rebase
+          git push
+        fi
+
