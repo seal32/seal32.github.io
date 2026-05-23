@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026/05/23 12:28" tvg-logo="" group-title="更新日期",2026/05/23 12:28
+#EXTINF:-1 tvg-id="1" tvg-name="2026/05/23 17:31" tvg-logo="" group-title="更新日期",2026/05/23 17:31
 
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="./logo凤凰中文.png" group-title="💝常看",凤凰中文
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$IPV4•线路1
