@@ -2,7 +2,7 @@ import requests
 import re
 import json
 import hashlib
-import demjson
+import demjson3
 
 # 创建全局 session 并设置浏览器 UA
 session = requests.Session()
