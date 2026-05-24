@@ -2,7 +2,7 @@
 
 //爬虫文件地址：
 {
-"spider":"https://tv.seal32.cn/tvbox/box2.jar;md5;321d74f638d3c02577bd7b2a6b63edcd",
+"spider":"./tvbox/box2.jar;md5;321d74f638d3c02577bd7b2a6b63edcd",
 
 //直播源地址：
 "lives":
