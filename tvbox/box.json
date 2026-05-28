@@ -3,7 +3,7 @@
 
 //爬虫文件地址：
 {
-"spider":"./tvbox/box.txt;md5;e25131330e48e729864434147c857f41",
+"spider":"https://tv.seal32.cn/tvbox/box.txt;md5;4905535609a9c0ce9cc2f652d6d90bda",
 
 //直播源地址：
 "lives":
@@ -36,7 +36,7 @@
     {"key": "奥特","name": "🏝奥特┃多线","type": 3,"api": "csp_AueteGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "荐片","name": "🐭荐片┃P2P","type": 3,"api": "csp_JPJGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
-
+    {"key": "超全","name": "⚽吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
     {"key": "有声小说","name": "🎧有声┃小说","type": 3,"api": "csp_Tingshu275Guard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAidGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -57,15 +57,15 @@
     {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"}},
 
 //
-{"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片"]},
+    {"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片"]},
 
-{"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
+    {"key":"csp","name":"资源列表结束","type":1,"api":"","playUrl":"","searchable":1,"quickSearch":1}
 ],
 
   "rules": [
     {"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
   ],
-
+ 
   "hosts": [
   "img1.wsyzy.org=fan.cloudflare.182682.xyz",
   "fiizvfck.top=fan.cloudflare.182682.xyz"

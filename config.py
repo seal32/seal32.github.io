@@ -5,8 +5,7 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
-    "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
-    "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/lenin.txt",
+    "",
     "https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt",
     "http://iptv.4666888.xyz/FYTV.txt",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
