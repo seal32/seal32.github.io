@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026/05/28 18:03" tvg-logo="" group-title="更新日期",2026/05/28 18:03
+#EXTINF:-1 tvg-id="1" tvg-name="2026/05/29 12:19" tvg-logo="" group-title="更新日期",2026/05/29 12:19
 
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰中文" tvg-logo="./logo凤凰中文.png" group-title="💝常看",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw$IPV4•线路1
@@ -155,8 +155,6 @@ http://rihou.cc:555/tv/[Pd]无线新闻$IPV4•线路3
 P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="无线新闻" tvg-logo="./logo无线新闻.png" group-title="💝常看",无线新闻
 http://cdn6.163189.xyz/163189/wxxw$IPV4•线路5
-#EXTINF:-1 tvg-id="6" tvg-name="无线新闻" tvg-logo="./logo无线新闻.png" group-title="💝常看",无线新闻
-https://flv-play.clouda.com/live/wxxw-VwZhG1x9hLCwReaguCg88TzThcD106VyDTku9beoGAAb1gQ0ls3pI6Mw9dGLnnXEdgTWcLV4l9rttWgKHUFeHEbb.flv$IPV4•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
 http://cdn6.163189.xyz/163189/fct$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
@@ -236,13 +234,11 @@ https://hls.163189.xyz/163189/0205c25f6b2ce920$IPV4•线路38
 #EXTINF:-1 tvg-id="39" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
 http://67.220.71.199:2347/livehttpplay?channel_id=30025$IPV4•线路39
 #EXTINF:-1 tvg-id="40" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
-https://flv-play.clouda.com/live/fc-HobLLf3dW4nB9nQMuFKNh0bpRdHHydvDLr3T6aW4VpCjyzH4cexufE6A845LlMDucBSORN7g1wXoCg6GXgiM0MhS.flv$IPV4•线路40
+https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8$IPV4•线路40
 #EXTINF:-1 tvg-id="41" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
-https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8$IPV4•线路41
+https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad$IPV4•线路41
 #EXTINF:-1 tvg-id="42" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
-https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad$IPV4•线路42
-#EXTINF:-1 tvg-id="43" tvg-name="翡翠台" tvg-logo="./logo翡翠台.png" group-title="💝常看",翡翠台
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路43
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路42
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="./logoCCTV1.png" group-title="💝常看",CCTV1
 http://124.223.82.228:89/608807420$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" tvg-logo="./logoCCTV1.png" group-title="💝常看",CCTV1
@@ -1376,11 +1372,9 @@ http://198.204.228.26/live/gdty.m3u8$IPV4•线路50
 #EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="./logo中天新闻.png" group-title="🇭🇰港台",中天新闻
 https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="./logo中天新闻.png" group-title="🇭🇰港台",中天新闻
-rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw$IPV4•线路2
+rtmp://home.aceimage.cn/live/332123-ztxw$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="中天新闻" tvg-logo="./logo中天新闻.png" group-title="🇭🇰港台",中天新闻
 rtmp://ai.unispc.com/live/nb-py-ztxw$IPV4•线路3
-#EXTINF:-1 tvg-id="4" tvg-name="中天新闻" tvg-logo="./logo中天新闻.png" group-title="🇭🇰港台",中天新闻
-https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="./logoTVBS新闻.png" group-title="🇭🇰港台",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="TVBS新闻" tvg-logo="./logoTVBS新闻.png" group-title="🇭🇰港台",TVBS新闻
@@ -1390,7 +1384,7 @@ http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="TVBS新闻" tvg-logo="./logoTVBS新闻.png" group-title="🇭🇰港台",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="TVBS新闻" tvg-logo="./logoTVBS新闻.png" group-title="🇭🇰港台",TVBS新闻
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8$IPV4•线路5
+http://jnzq.ohoyee.com:9080/live/332123-tvbsxw.m3u8$IPV4•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="./logo东森新闻.png" group-title="🇭🇰港台",东森新闻
 http://119.123.78.80:8086/hls/45/index.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="东森新闻" tvg-logo="./logo东森新闻.png" group-title="🇭🇰港台",东森新闻
