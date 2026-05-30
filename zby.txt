@@ -25,7 +25,6 @@
 
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
-无线新闻,https://flv-play.clouda.com/live/wxxw-VwZhG1x9hLCwReaguCg88TzThcD106VyDTku9beoGAAb1gQ0ls3pI6Mw9dGLnnXEdgTWcLV4l9rttWgKHUFeHEbb.flv
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://cdn6.163189.xyz/163189/fct
@@ -92,8 +91,10 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🇭🇰港台,#genre#
-中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
+中天新闻,p3p://focus169.org:25271/68b98b8e00071bd3eeba61bc11471666
+中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d
+中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 翡翠台,http://cdn6.163189.xyz/163189/fct
