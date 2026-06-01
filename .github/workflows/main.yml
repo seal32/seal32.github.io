@@ -2,7 +2,7 @@ name: Update IPTV Schedule
 
 on:
   schedule:
-    - cron: '0 10 * * 1'  # 每周一10点运行 (1-6表示周一到周六, 0/7是周日)
+    - cron: '0 0 * * 1'  # 分、时、天 、月、星期。每周一0点运行 (1-6表示周一到周六, 0/7是周日)
   workflow_dispatch:  # 允许手动触发工作流
 
 jobs:
