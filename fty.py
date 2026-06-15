@@ -1,8 +1,11 @@
 import requests
 import re
+import demjson3 as demjson
 import json
 import hashlib
-import demjson3 as demjson
+import sys
+import os
+from pathlib import Path
 
 # 创建全局 session 并设置浏览器 UA
 session = requests.Session()
@@ -18,6 +21,53 @@ def fetch_raw_json():
     resp = session.get(url, timeout=30, allow_redirects=True)
     resp.encoding = 'utf-8'
     return resp.text
+
+# 读取本地 JSON 文件
+def read_local_json(file_path):
+    """读取本地JSON文件，支持带注释的JSON和图片中的base64数据"""
+    with open(file_path, 'rb') as f:
+        raw_content = f.read()
+
+    # 检查是否为图片文件
+    image_headers = [
+        b'\xff\xd8\xff\xe0',  # JPEG
+        b'\xff\xd8\xff\xe1',  # JPEG
+        b'\x89PNG',           # PNG
+        b'GIF87a',            # GIF
+        b'GIF89a',            # GIF
+        b'BM',                # BMP
+    ]
+    is_image = False
+    for header in image_headers:
+        if raw_content.startswith(header):
+            is_image = True
+            break
+
+    # 如果是图片，尝试提取嵌入的base64数据
+    if is_image:
+        import base64
+        print(f"  检测到图片文件，尝试提取嵌入的base64数据...")
+        try:
+            text_content = raw_content.decode('latin-1')
+            # 查找长base64字符串（至少50个字符）
+            base64_pattern = r'[A-Za-z0-9+/=]{50,}'
+            match = re.search(base64_pattern, text_content)
+            if match:
+                base64_str = match.group(0)
+                print(f"  找到base64数据，长度: {len(base64_str)}")
+                decoded = base64.b64decode(base64_str)
+                content = decoded.decode('utf-8')
+                # 移除JavaScript风格的注释
+                content = re.sub(r'^//.*$', '', content, flags=re.MULTILINE).strip()
+                return content
+        except Exception as e:
+            print(f"  提取图片数据失败: {e}")
+
+    # 普通文本文件处理
+    content = raw_content.decode('utf-8')
+    # 移除JavaScript风格的注释
+    content = re.sub(r'^//.*$', '', content, flags=re.MULTILINE).strip()
+    return content
 
 # 下载 spider 文件
 def extract_and_save_spider(json_text):
@@ -48,23 +98,21 @@ def clean_data(raw_text):
         './FTY',
         raw_text
     )
-    
-    try:
-        # 尝试标准JSON解析
-        data = json.loads(raw_text)
-    except:
-        # 失败则使用 demjson
-        data = demjson.decode(raw_text)
 
-    # 如果之前注释的代码要启用，修复如下：
-    # keywords = ["豆", "饭太硬", "广告", "PanSso", "YpanSo", "xzso", "米搜", "夸搜", "Aliso", "YiSo"]
+    data = demjson.decode(raw_text)
+
+    # keywords = [
+    #     "豆", "饭太硬", "广告", "PanSso", "YpanSo", "xzso", "米搜", "夸搜", "Aliso", "YiSo"
+    # ]
+
     # original_count = len(data.get("sites", []))
+
     # data["sites"] = [
     #     s for s in data["sites"]
     #     if not any(kw in s.get("key", "") or kw in s.get("name", "") for kw in keywords)
     # ]
-    # print(f"🧹 清理 {original_count - len(data['sites'])} 条 sites")
-    
+
+    # print(f"🧹 清理 {data - len(data['sites'])} 条 sites")
     return data
 
 # 格式美化保存
@@ -92,19 +140,33 @@ def save_json(data, filename="fty.json"):
 
 # 主流程
 if __name__ == "__main__":
-    import traceback
     try:
-        raw_text = fetch_raw_json()
-        print(f"获取到的原始数据长度: {len(raw_text)}")
-        
+        # 判断输入源
+        if len(sys.argv) > 1:
+            input_path = sys.argv[1]
+            if input_path in ['-h', '--help']:
+                print("用法:")
+                print("  python fty.py [输入文件]")
+                print("  python fty.py              # 从URL获取数据")
+                print("  python fty.py input.json   # 从本地JSON文件读取")
+                print("  python fty.py fff.json     # 从本地图片文件读取（自动提取base64数据）")
+                sys.exit(0)
+            if os.path.isfile(input_path):
+                print(f"📂 读取本地文件: {input_path}")
+                raw_text = read_local_json(input_path)
+            else:
+                print(f"❌ 文件不存在: {input_path}")
+                sys.exit(1)
+        else:
+            print("🌐 从URL获取数据...")
+            raw_text = fetch_raw_json()
+
         extract_and_save_spider(raw_text)
-        
         data = clean_data(raw_text)
-        print(f"解析成功，包含 {len(data.get('sites', []))} 个站点")
-        
+        # 更新 spider 为本地 fan.txt + 最新 MD5
         md5_value = get_md5("fan.txt")
         data["spider"] = f"./fan.txt;md5;{md5_value}"
+        print(f"🔄 spider 已更新为: {data['spider']}")
         save_json(data)
     except Exception as e:
         print(f"❌ 错误: {e}")
-        traceback.print_exc()  # 打印完整错误堆栈
