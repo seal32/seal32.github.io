@@ -87,6 +87,7 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 
 🇭🇰港台,#genre#
 中天新闻,http://rihou.cc:555/tv/中天新闻
+中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
 翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
