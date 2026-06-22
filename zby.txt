@@ -65,16 +65,24 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
 广东珠江,http://cdn2.163189.xyz/163189/gdzj
+广东珠江,http://14.118.74.55:10001/rtp/239.77.0.1:5146
+广东珠江,http://www.3344.uk:8888/rtp/239.77.0.1:5146
 
+广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
+深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
+南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb
+
 CHC动作电影,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=67&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
 新视觉,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=113&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 ⛹️体育,#genre#
@@ -136,8 +144,6 @@ CETV1,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=33&FvSeid=1&Fsv_ctype=LIVES&F
 CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 📡卫视,#genre#
-广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 江苏卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 湖南卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 东方卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
