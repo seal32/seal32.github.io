@@ -16,7 +16,6 @@
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 
 无线新闻,http://cdn6.163189.xyz/163189/wxxw
-无线新闻,http://www.kaniptv.cn/ua3.php?etoken=JN4oP6EQ3pxYlJJm1Icq9y82ye%2BvjM1EWXsx2Y8cIWRTvJSwr8MI7uwVVFe31eG8mfoxv7toSZq9Mn2Yi2FfLCaEP8IsVQBjLyHIxjMJ03qDXhrScayywqjzt%2F7FKqtLJ5%2BQCm6NK7s942NF0kdHufegr%2F8HQ7Q4AMaOjP48GnN7E01xFI2NkTtXblRRGmPS7FYASOE6Sp7%2FzpOOp8B66QlRaxTUYzuU00qxjGUVCerv8tbiGAT4frhk2D20KnRTs1Ctqpkul0SPelPmvoP3ZXfHT4Fd0S6T7Hp8EJARsZj9RPqHTTXPfWzNv3B%2Bn8%2FyNUJ9go7TQJMRezrEDbFQkw%3D%3D
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://cdn6.163189.xyz/163189/fct
@@ -82,10 +81,10 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 广东体育,http://cdn2.163189.xyz/163189/gdty
 
 🇭🇰港台,#genre#
-中天新闻,http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
-中天新闻,http://rihou.cc:555/tv/中天新闻
+中天新闻,rtmp://221.4.216.91/live/332123-ztxw
+中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw1
+中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-
 翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt

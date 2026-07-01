@@ -10,7 +10,7 @@ source_urls = [
     "http://iptv.4666888.xyz/FYTV.txt",
     "https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
     "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-    "https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/ipv4/result.txt",
+    "",
 
 ]
 
