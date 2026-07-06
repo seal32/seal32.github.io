@@ -13,8 +13,6 @@
 
 凤凰香港,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
 
-无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线新闻,https://rtmp.play.live.tieba.com/live//WX-XTncUyverrEAumydD9rS3sSHJA0JA8ufjCwh6JJtemBozIX1d3zr5ItgD7PuFTwAXCKEmeqeVnwpQFD2g3PEGDgF.flv
 无线新闻,https://flv-play.clouda.com/live/wxxw-yNSHqJKNEA3OlzQpSZ34lGxiObGcc5H4nz2n4rCUEw3LlULAmf1DunDmHzDwyVeDXINTjpbkMcIKSi8JbDvvzmVA.flv
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -80,9 +78,6 @@ CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&
 
 🇭🇰港台,#genre#
 中天新闻,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD00MyZrZXk9JTJBJTJBJTJBJTJB
-中天新闻,rtmp://221.4.216.91/live/332123-ztxw
-中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw1
-中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
