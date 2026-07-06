@@ -33,6 +33,9 @@
     {"key": "荐片","name": "🥝荐片┃多线","type": 3,"api": "csp_JPJGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "奥特","name": "🏝奥特┃多线","type": 3,"api": "csp_AueteGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
+    {"key": "咕咕","name": "🦉咕咕┃动漫","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"},
+    {"key": "Dm84","name": "🚌巴士┃动漫","type": 3,"api": "csp_Dm84Guard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "Anime1","name": "🐾日本┃动漫","type": 3,"api": "csp_Anime1Guard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "多多","name": "🏀多多┃看球","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "吃瓜","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
@@ -63,8 +66,8 @@
 
   "rules": [
     {"name": "cdn.ryplay","hosts": ["cdn.ryplay"],"regex": ["5.480000","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
-  ],
- 
+], 
+  
   "hosts": [
   "img1.wsyzy.org=fan.cloudflare.182682.xyz",
   "fiizvfck.top=fan.cloudflare.182682.xyz",
