@@ -8,15 +8,16 @@ on:
 jobs:
   run_script:
     runs-on: ubuntu-latest  # 使用最新的Ubuntu运行器
+    continue-on-error: true
 
     steps:
     - name: Checkout repository  # 检出代码库
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Set up Python  # 设置Python环境
       uses: actions/setup-python@v5
       with:
-        python-version: '3.11'  # 使用Python 3.11
+        python-version: '3.x'  # 使用最新Python 版本
 
     - name: Cache dependencies  # 缓存pip依赖项
       uses: actions/cache@v4

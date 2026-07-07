@@ -77,7 +77,7 @@ def extract_and_save_spider(json_text):
     full_spider = match.group(1)
     spider_url = full_spider.split(";")[0]
     print(f"📥 下载 spider 文件: {spider_url}")
-    resp = session.get(spider_url, timeout=30, allow_redirects=True)
+    resp = session.get(spider_url, timeout=40, allow_redirects=True)
     with open("fan.txt", "wb") as f:
         f.write(resp.content)
     print("✅ 已保存为 fan.txt")
