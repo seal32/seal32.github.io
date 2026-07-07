@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="常看",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
+http://www.lvyjay.win:4022/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="常看",凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
+http://www.lvyjay.win:4022/udp/233.50.202.36:5140
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="常看",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
+
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="常看",无线新闻
-http://cdn6.163189.xyz/163189/wxxw
+http://zwg6818.vicp.net:28000/bysid/83
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="常看",翡翠台
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="常看",CCTV1
@@ -26,23 +26,19 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-rtmp://221.4.216.91/live/332123-ztxw
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-rtmp://ai.unispc.com/live/nb-py-ztxw1
+
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",NOW新闻
-http://rihou.cc:555/tv/[Cx]Now新闻
+http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0xNCZrZXk9JTJBJTJBJTJBJTJB
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",HOY77
-http://cdn.163189.xyz/163189/hoy
+http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",RTHK31
-https://cdn.163189.xyz/163189/rthk31
+http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",澳视澳门
-http://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",澳门Macau
-http://cdn6.163189.xyz/163189/as
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",澳门综艺
-http://cdn6.163189.xyz/163189/amzy
+http://iptv.4666888.xyz/iptv2A.php?id=41
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="珠江宽频",凤凰中文
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -160,7 +156,9 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="外国",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="外国",BBC NEWS
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",ABC NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外国",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="外国",france24
