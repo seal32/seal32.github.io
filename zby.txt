@@ -11,7 +11,7 @@
 凤凰资讯,http://0000505.xyz:8888/udp/239.76.246.135:1234
 凤凰资讯,http://0000505.xyz:8888/udp/239.76.253.134:9000
 
-无线新闻,http://154.222.29.54/本群大佬-jr.php?id=13&token=65ba04e27c1eebd8
+无线新闻,
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
@@ -49,6 +49,7 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 广州综合,http://r.jdshipin.com/snhya
 
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 
 广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
