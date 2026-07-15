@@ -54,6 +54,7 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+南国都市,http://r.jdshipin.com/nWaZO
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
