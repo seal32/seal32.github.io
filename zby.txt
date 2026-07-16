@@ -48,8 +48,25 @@ CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&
 
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
+广东珠江,http://8.134.175.232:4022/udp/239.77.0.1:5146
+广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
+广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
+广东珠江,http://gdyd.7259.cc.cd:4014/udp/239.77.0.1:5146
+广东珠江,http://wmh.wmh.ink:6633/udp/239.77.0.1:5146
+广东珠江,http://plex.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
+广东珠江,http://bot22.top:19999/udp/239.77.0.1:5146
+广东珠江,http://www.maomizi.cn:9527/udp/239.77.0.1:5146
 
 广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146
+广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
+广东卫视,http://gdyd.7259.cc.cd:4014/udp/239.77.0.84:5146
+广东卫视,http://wmh.wmh.ink:6633/udp/239.77.0.84:5146
+广东卫视,http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
+广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
+广东卫视,http://bot22.top:19999/udp/239.77.0.84:5146
+广东卫视,http://www.maomizi.cn:9527/udp/239.77.0.84:5146
 
 深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
@@ -71,6 +88,16 @@ CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&
 CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://8.134.175.232:4022/udp/239.77.0.112:5146
+广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
+广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
+广东体育,http://gdyd.7259.cc.cd:4014/udp/239.77.0.112:5146
+广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
+广东体育,http://plex.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
+广东体育,http://bot22.top:19999/udp/239.77.0.112:5146
+广东体育,http://www.maomizi.cn:9527/udp/239.77.0.112:5146
+NOW616粤语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=1
 
 🇭🇰港台,#genre#
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
