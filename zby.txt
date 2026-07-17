@@ -1,33 +1,22 @@
 ﻿💝常看,#genre#
 凤凰中文,http://www.lvyjay.win:4022/udp/233.50.202.35:5140
-凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.36:5140
-凤凰中文,http://0000505.xyz:8888/udp/239.76.246.134:1234
-凤凰中文,http://0000505.xyz:8888/udp/239.76.253.135:9000
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=19
 凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 凤凰资讯,http://www.lvyjay.win:4022/udp/233.50.202.36:5140
-凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
-凤凰资讯,http://0000505.xyz:8888/udp/239.76.246.135:1234
-凤凰资讯,http://0000505.xyz:8888/udp/239.76.253.134:9000
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 
 CCTV1,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV1,http://www.lvyjay.win:4022/udp/233.50.200.130:5140
-CCTV1,http://www.liangcl.top:8686/udp/233.50.200.130:5140
 
 CCTV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV4,http://www.lvyjay.win:4022/udp/233.50.200.101:5140
-CCTV4,http://www.liangcl.top:8686/udp/233.50.200.101:5140
-CCTV4,http://www.yahao.host:4022/udp/239.77.1.163:5146
 CCTV4,http://lsa.familyds.com:8188/udp/239.77.1.163:5146
 
 CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV13,http://www.lvyjay.win:4022/udp/233.50.201.246:5140
-CCTV13,http://www.liangcl.top:8686/udp/233.50.201.246:5140
-CCTV13,http://www.yahao.host:4022/udp/239.253.43.196:5146
 CCTV13,http://lsa.familyds.com:8188/udp/239.253.43.196:5146
 
 广州新闻,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -56,34 +45,18 @@ CCTV13,http://lsa.familyds.com:8188/udp/239.253.43.196:5146
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
-广东珠江,http://gdyd.7259.cc.cd:4014/udp/239.77.0.1:5146
-广东珠江,http://wmh.wmh.ink:6633/udp/239.77.0.1:5146
-广东珠江,http://plex.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
 广东珠江,http://bot22.top:19999/udp/239.77.0.1:5146
 
 广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东卫视,http://www.lvyjay.win:4022/udp/233.50.201.102:5140
-广东卫视,http://www.liangcl.top:8686/udp/233.50.201.102:5140
 广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146
-广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
-广东卫视,http://gdyd.7259.cc.cd:4014/udp/239.77.0.84:5146
-广东卫视,http://wmh.wmh.ink:6633/udp/239.77.0.84:5146
-广东卫视,http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
-广东卫视,http://www.3344.uk:8888/udp/239.77.0.84:5146
 广东卫视,http://bot22.top:19999/udp/239.77.0.84:5146
 
 深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 深圳卫视,http://www.lvyjay.win:4022/udp/233.50.201.101:5140
-深圳卫视,http://www.liangcl.top:8686/udp/233.50.201.101:5140
-深圳卫视,http://www.yahao.host:4022/udp/239.77.1.3:5146
-深圳卫视,http://www.yahao.host:4022/udp/239.77.0.130:5146
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.1.3:5146
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.0.130:5146
-深圳卫视,http://gdyd.7259.cc.cd:4014/udp/239.77.1.3:5146
-深圳卫视,http://gdyd.7259.cc.cd:4014/udp/239.77.0.130:5146
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -101,19 +74,16 @@ CHC动作电影,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=67&FvSeid=1&Fsv_cty
 CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5,http://www.lvyjay.win:4022/udp/233.50.201.197:5140
 CCTV5,http://www.liangcl.top:8686/udp/233.50.201.197:5140
-CCTV5,http://www.yahao.host:4022/udp/239.77.0.170:5146
 CCTV5,http://lsa.familyds.com:8188/udp/239.77.0.170:5146
 
 CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5+,http://www.lvyjay.win:4022/udp/233.50.201.220:5140
 CCTV5+,http://www.liangcl.top:8686/udp/233.50.201.220:5140
-CCTV5+,http://www.yahao.host:4022/udp/239.77.0.87:5146
 CCTV5+,http://lsa.familyds.com:8188/udp/239.77.0.87:5146
 
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://www.lvyjay.win:4022/udp/233.50.201.192:5140
 CCTV16,http://www.liangcl.top:8686/udp/233.50.201.192:5140
-CCTV16,http://www.yahao.host:4022/udp/239.77.0.165:5146
 CCTV16,http://lsa.familyds.com:8188/udp/239.77.0.165:5146
 
 CCTV16-4K,http://www.lvyjay.win:4022/udp/233.50.201.63:5140
@@ -121,13 +91,6 @@ CCTV16-4K,http://www.liangcl.top:8686/udp/233.50.201.63:5140
 
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
-广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
-广东体育,http://gdyd.7259.cc.cd:4014/udp/239.77.0.112:5146
-广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
-广东体育,http://plex.cyruslee.top:8888/udp/239.77.0.112:5146
-广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
-广东体育,http://bot22.top:19999/udp/239.77.0.112:5146
-NOW616粤语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=1
 
 🇭🇰港台,#genre#
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
