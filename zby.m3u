@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="常看",凤凰中文
-http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
+http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="常看",凤凰资讯
-http://www.kaniptv.cn/uadl.php?etoken=rq%2Bk3uBkzrpLFG7ddIIk4WTQzISz1y9zzIRiF%2F8PmUXv2vZlA9Gbkwg7iUGNIXO46WA7KCMzjxhWYq1PMjE4rRebztvCfa7di%2FCPJMi7y20WJBRlqHEJTR%2FHWWsv%2BjLsxzZMWGTDpKo8FY6sFuPxfZVz1%2BIS%2FOWi7bqi%2BRnB3P1uLCWRAfK1H%2FhQ9EvQAv1RRDjfccsA%2BIjIioVJCsLanKzFUdpwRnDyqyooVxEXzLljU6tvy9rwBnMpPucglxC0e6e6fGsq5Yi3leLc6n5XsRer6kWCEEhEfq6RLR%2FCXehmlicRmHum7X9jvOxly7y48SxJ%2Fh2OYfOYW36G4u1Ocg%3D%3D
+http://www.liangcl.top:8686/udp/233.50.202.36:5140
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="常看",凤凰香港
-http://www.kaniptv.cn/uadl.php?etoken=TnG2NuGjulXo8nW0ZWHsoNfvWHGhXbOp5jvBNayByR3RwBfFDEhXNmTS5SIgkKzz%2BsNXRsoNAlBtYv8XWAFfpU7A%2FkBfKVJozfv7IFLYpuIg2mJvKafyaORgVd9%2Fst1OwxBUNiKKBYeqKrEPw1cZaMaXMzXG7pHlrHGUmjz6srYDtRAYKlLhcpyypYiVVI1fn15xdc0A9UBaM%2FgrtJ%2BpNgu10uoHihwM8BvW9KwLt4guxsxVMKkbNGLJCUhyuHMUr4UUYimyy8VAAoeNl3R12tOBEFGuI%2FW%2FdZAok5xDNhTTWxKB0gl3BOffM9LPkh4DdEya8JYiAxbY9gkUjxz3Tg%3D%3D
+
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="常看",无线新闻
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="常看",翡翠台
@@ -28,17 +30,16 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
 http://111.0.115.129:8081/live/222ztxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
-http://safe.shanghairta.com:8081/live/555ztxw.m3u8
+http://hsjky.com.cn:8081/live/111ztxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
 http://173.208.234.146/live/ctinews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",中天新闻
+http://safe.shanghairta.com:8081/live/555ztxw.m3u8
+
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港台",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",NOW新闻
-http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",HOY77
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",RTHK31

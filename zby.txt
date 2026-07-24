@@ -1,8 +1,10 @@
 ﻿💝常看,#genre#
-凤凰中文,http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
 凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140
+凤凰中文,http://0000505.xyz:8888/udp/239.76.253.135:9000
 
-凤凰资讯,http://www.kaniptv.cn/uadl.php?etoken=rq%2Bk3uBkzrpLFG7ddIIk4WTQzISz1y9zzIRiF%2F8PmUXv2vZlA9Gbkwg7iUGNIXO46WA7KCMzjxhWYq1PMjE4rRebztvCfa7di%2FCPJMi7y20WJBRlqHEJTR%2FHWWsv%2BjLsxzZMWGTDpKo8FY6sFuPxfZVz1%2BIS%2FOWi7bqi%2BRnB3P1uLCWRAfK1H%2FhQ9EvQAv1RRDjfccsA%2BIjIioVJCsLanKzFUdpwRnDyqyooVxEXzLljU6tvy9rwBnMpPucglxC0e6e6fGsq5Yi3leLc6n5XsRer6kWCEEhEfq6RLR%2FCXehmlicRmHum7X9jvOxly7y48SxJ%2Fh2OYfOYW36G4u1Ocg%3D%3D
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140
+凤凰资讯,http://0000505.xyz:8888/udp/239.76.253.134:9000
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
@@ -95,19 +97,16 @@ CCTV16-4K,http://www.liangcl.top:8686/udp/233.50.201.63:5140
 
 🇭🇰港台,#genre#
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-中天新闻,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
+中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
+中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
-中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
 
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-东森新闻,http://www.kaniptv.cn/uadl.php?etoken=bO0JsxBVRcHqxui2UZGYDeDbhqXMAPYlK%2B8VE70dYI9FTY5gUiK9W6uP%2BsnGjL29OJhd2LYT3ny34pKcig%2FfygoQi7vpJ%2BrwExsUbTezeiLHs%2FmXsBJmm2vStp249DkxgwuJM1%2B1bLzKNB8BqcCllZ1BSzM8bi5zIdaSLA%2BOtcw3JMcyN%2BvwtDwcOk%2FAErf1KEsUDZn4ZBkdOKNHdwPS3FrrmjirrG1eHlwIM5A6XMQepS1tJKIYLVKfBjmHyXJUl%2FvXEK6bynzbQmUPrQFNS%2B9GCXLeSlIxTWY5HAeQ%2BQFDdOkXlBMzzV154EGld4b0Lmuwde0HklIUQqbFH4%2FeCA%3D%3D
 
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-TVBS新闻,http://www.kaniptv.cn/uadl.php?etoken=7TRr%2BWczbLgZ4XTHBEZ9Frr5SwP01H7mOfKbnj2TuNaxcdU2ByY2TdRYmUIrpd8cei7k%2F3fdP8mHXwS3IzhR7%2BX8KJgj7meafxXIc4NIGRMF9SdShruPrtdL7g2Z6QsTBCJF5mmnumaToRfTjHyJFQe%2FPohlqhaAe3KLDimWL3mgcyZ2O39ZO00xSTQ4wbh2cWaRT9jgCNIKPsmBdMWfPoxR842vkMZFeNAC1h%2FK4DQlJOonqcvSNj%2B3MwsolW64cvg9iSzjLBbUPL3ESpFlDGd8WmHyU8rYTcYdSPKoGs7Enjlafs7brfqLlatGRTOp2Y%2BGNEWJUnhcpHdXTAgtwA%3D%3D
 
-NOW新闻,http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
