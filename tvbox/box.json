@@ -3,7 +3,7 @@
 
 //爬虫文件地址：
 {
-"spider":"https://tv.seal32.cn/tvbox/box.txt;md5;cefd44f999782ba92041856620bd5097",
+"spider":"https://tv.seal32.cn/tvbox/box.txt;md5;35002041650f308fab31cdda04a60637",
 
 //直播源地址：
 "lives":
@@ -18,7 +18,7 @@
     {"key": "MTV1","name": "🎙️易听音乐┃带歌词","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "seed","name": "💡聚剧┃四盘","type": 3,"api": "csp_SeedhubGuard","ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable": 1,"quickSearch": 1,"changeable": 0,"indexs": 0},
     {"key": "光影","name": "🌞光影┃不卡","type": 3,"api": "csp_T4Guard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
-    {"key": "原创","name": "👒原创┃不卡","type": 3,"api": "csp_YCyzGuard","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "原创","name": "👒原创┃不卡","type": 3,"api": "csp_YCyzGuard","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "厂长","name": "📔厂长┃不卡","type": 3,"api": "csp_NewCzGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "立播","name": "🌟立播┃不卡","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","siteUrl": "https://www.libvio.pw/"}},
     {"key": "瓜子","name": "👀瓜子┃不卡","type": 3,"api": "csp_AppgzGuard","timeout": 15,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -53,7 +53,6 @@
     {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"}},
     {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"}},
     {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_PushGuard","searchable": 0,"quickSearch": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
-
 //
     {"key": "xml_火狐","name": "🚄火狐🌎资源","type": 1,"style":{ "type":"rect", "ratio":0.8 },"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories":["动作片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片"]},
 
