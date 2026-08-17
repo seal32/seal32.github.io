@@ -6,16 +6,20 @@
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 
 无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻,https://cdn6.123.rr.kg/163189/wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxw
 无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
 无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 
-翡翠台,https://cdn6.cc.cd/163189/jade
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,https://cdn6.cc.cd/163189/jade
 
-CCTV1,
-CCTV4,
+CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 CCTV13,https://10.fast.hidns.vip/163189/cctv13
 
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
@@ -73,6 +77,7 @@ CCTV16,
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
+中天新闻,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/cti_iphone.m3u8
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
@@ -80,14 +85,17 @@ CCTV16,
 TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 NOW新闻台,https://fast.hidns.vip/163189/now
+HOY TV,http://r.jdshipin.com/sFw4S
 HOY TV,https://cdn6.cc.cd/163189/hoy
 HOY TV,https://fast.hidns.vip/163189/hoy
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK31,https://fast.hidns.vip/163189/rthk31
 
 🌏外国,#genre#
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-
+Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
