@@ -1,9 +1,19 @@
 💝常看,#genre#
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156407
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
+
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,https://cdn6.cc.cd/163189/fhhk
 
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
@@ -17,6 +27,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,https://cdn6.cc.cd/163189/jade
+翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
@@ -53,8 +64,8 @@ CCTV13,https://10.fast.hidns.vip/163189/cctv13
 广州综合,http://r.jdshipin.com/snhya
 广州综合,https://168.sryze.cc/163189/gzzh
 
-广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
+广东珠江,https://2.fast.hidns.vip/163189/gdzj
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -101,7 +112,11 @@ RTHK31,https://fast.hidns.vip/163189/rthk31
 🌏外国,#genre#
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
+Channel 9 Sydney,https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
+News24,https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
