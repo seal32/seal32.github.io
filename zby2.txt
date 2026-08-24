@@ -116,7 +116,6 @@ Channel 9 Sydney,https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/s
 News24,https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
