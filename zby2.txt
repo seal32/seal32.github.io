@@ -95,7 +95,6 @@ CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
-中天新闻,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/cti_iphone.m3u8
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
@@ -119,4 +118,3 @@ BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bb
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
-Sky News,https://www.youtube.com/watch?v=YDvsBbKfLPA
