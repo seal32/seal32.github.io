@@ -7,8 +7,6 @@
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156407
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 
 凤凰香港,http://r.jdshipin.com/yDoTN
@@ -19,8 +17,6 @@
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,https://cdn6.123.rr.kg/163189/wxxw
 无线新闻,https://cdn6.cc.cd/163189/wxxw
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
-无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -94,12 +90,8 @@ CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 NOW新闻台,https://fast.hidns.vip/163189/now
 HOY TV,http://r.jdshipin.com/sFw4S
@@ -110,7 +102,6 @@ RTHK31,https://fast.hidns.vip/163189/rthk31
 
 🌏外国,#genre#
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC News,https://www.youtube.com/watch?v=iipR5yUp36o
 Channel 9 Sydney,https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
 News24,https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
