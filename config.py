@@ -8,7 +8,7 @@ source_urls = [
     "",
     "https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt",
     "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-    "",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "",
     "",
 
