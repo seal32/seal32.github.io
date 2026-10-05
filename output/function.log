@@ -1,8 +1,9 @@
-2026-09-28 11:30:05,716 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
-2026-09-28 11:30:06,064 - INFO - url: https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt 成功，判断为txt格式
-2026-09-28 11:30:06,068 - INFO - url: https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt 成功，包含频道分类: 更新日期, 📺┃广东频道, 🍓┃湾区频道, 📠┃央视频道, 🐻┃卫视频道, 🐶┃咪咕频道, 🐟┃少儿频道, 🐶┃影视频道
-2026-09-28 11:30:06,311 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt 成功，判断为txt格式
-2026-09-28 11:30:06,325 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt 成功，包含频道分类: 抖音K歌, 清风DJ, 欧美music, 加入易發群, AK电影, 极速港台（挂梯）, 极速港台2, 四季台湾, 美国UA(挂梯子), 英国UK(挂梯子), 韩国KR, 抖音直播, 广东荔枝网, 广东酒店, 揭阳IPTV, 海南移动, 广东电信(内网), 广东联通(内网), 广东移动(内网), 咪咕央视, 咪咕央视2, 咪咕体育, 央视频, 央视频2, 央视频3, 央视频5, 央视频6, 安徽JD, 天翼有线, 虎牙轮播, 斗鱼轮播, YY轮播, 随机点播, 音乐电台, 私密频道_169169, 私密频道2_169169, 私密频道3_169169, JAV點播_169169
-2026-09-28 11:30:06,326 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
-2026-09-28 11:30:06,326 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
-2026-09-28 11:30:06,326 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2026-10-05 11:55:45,659 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2026-10-05 11:55:46,007 - INFO - url: https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt 成功，判断为txt格式
+2026-10-05 11:55:46,014 - INFO - url: https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt 成功，包含频道分类: 更新日期, 📺┃广东频道, 🍓┃湾区频道, 📠┃央视频道, 🐻┃卫视频道, 🐶┃咪咕频道, 🐟┃少儿频道, 🐶┃影视频道
+2026-10-05 11:55:46,183 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt 成功，判断为txt格式
+2026-10-05 11:55:46,206 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt 成功，包含频道分类: 抖音K歌, 清风DJ, 欧美music, 加入易發群, AK电影, 极速港台（挂梯）, 极速港台2, 四季台湾, 美国UA(挂梯子), 英国UK(挂梯子), 韩国KR, 抖音直播, 广东荔枝网, 广东酒店, 揭阳IPTV, 海南移动, 广东电信(内网), 广东联通(内网), 广东移动(内网), 咪咕央视, 咪咕央视2, 咪咕体育, 央视频, 央视频2, 央视频3, 央视频5, 央视频6, 安徽JD, 天翼有线, 虎牙轮播, 斗鱼轮播, YY轮播, 随机点播, 音乐电台, 私密频道_169169, 私密频道2_169169, 私密频道3_169169, JAV點播_169169
+2026-10-05 11:55:46,339 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 成功，判断为m3u格式
+2026-10-05 11:55:46,342 - INFO - url: https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u 成功，包含频道分类: 4K频道, 央视频道, 央视高清, 咪咕央视, 卫视频道, 备用频道, 移动IPTV, 数字频道, APTV专享, APTV专享" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, APTV专享" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png, 港澳代理, 港澳台频道, IHOT频道, NewTV频道, 咪咕赛事, 动画频道, 虎牙影视, 斗鱼影视, 电视剧频道, 埋堆堆频道, 点播电影, ☘️北京频道, ☘️上海频道, ☘️浙江频道, ☘️湖南频道, ☘️四川频道, ☘️辽宁频道, ☘️广东频道, ☘️江苏频道, ☘️河南频道, ☘️河北频道, ☘️陕西频道, ☘️安徽频道, ☘️湖北频道, ☘️福建频道, ☘️海南频道, ☘️黑龙江频道, ☘️内蒙古频道, 地方频道, 春晚频道, 国际频道
+2026-10-05 11:55:46,343 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+2026-10-05 11:55:46,343 - ERROR - url:  失败❌, Error: Invalid URL '': No scheme supplied. Perhaps you meant https://?
