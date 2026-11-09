@@ -1,4 +1,5 @@
 ﻿💝常看,#genre#
+凤凰中文,http://hzzzz530.com:4022/rtp/239.69.2.20:11274
 凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 
@@ -7,7 +8,7 @@
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 
 无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
-无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
@@ -18,11 +19,14 @@ CCTV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&F
 CCTV4,http://lsa.familyds.com:8188/udp/239.77.1.163:5146
 CCTV4,http://www.liangcl.top:8686/udp/233.50.200.101:5140
 CCTV4,http://www.yahao.host:4022/udp/239.77.1.163:5146
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 
 CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV13,http://lsa.familyds.com:8188/udp/239.253.43.196:5146
 CCTV13,http://www.liangcl.top:8686/udp/233.50.201.246:5140
 CCTV13,http://www.yahao.host:4022/udp/239.253.43.196:5146
+CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
 广州新闻,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639
@@ -51,18 +55,19 @@ CCTV13,http://www.yahao.host:4022/udp/239.253.43.196:5146
 
 广东珠江,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=115&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
-广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 
 广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东卫视,http://www.liangcl.top:8686/udp/233.50.201.102:5140
 广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146
-广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8?ysp
 
 深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 深圳卫视,http://www.liangcl.top:8686/udp/233.50.201.101:5140
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.1.3:5146
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.0.130:5146
-深圳卫视,http://www.yahao.host:4022/udp/239.77.1.3:5146
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+深圳卫视,http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8?ysp
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -79,40 +84,26 @@ CHC动作电影,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=67&FvSeid=1&Fsv_cty
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5,http://lsa.familyds.com:8188/udp/239.77.0.170:5146
-CCTV5,http://www.yahao.host:4022/udp/239.77.0.170:5146
 CCTV5,http://www.liangcl.top:8686/udp/233.50.201.197:5140
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5+,http://lsa.familyds.com:8188/udp/239.77.0.87:5146
 CCTV5+,http://www.liangcl.top:8686/udp/233.50.201.220:5140
-CCTV5+,http://www.yahao.host:4022/udp/239.77.0.87:5146
+CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://lsa.familyds.com:8188/udp/239.77.0.165:5146
 CCTV16,http://www.liangcl.top:8686/udp/233.50.201.192:5140
-CCTV16,http://www.yahao.host:4022/udp/239.77.0.165:5146
-
-CCTV16-4K,http://www.liangcl.top:8686/udp/233.50.201.63:5140
 
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
-广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
 
 🇭🇰港台,#genre#
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
-中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
-中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
-中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -168,10 +159,12 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 海南卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🌏外国,#genre#
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+News24,https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 france24,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
