@@ -1,30 +1,26 @@
 ﻿💝常看,#genre#
 凤凰中文,http://hzzzz530.com:4022/rtp/239.69.2.20:11274
+凤凰中文,http://www.3872327.top:1225/rtp/239.69.2.20:11274
+凤凰中文,http://xk8.top:8001/rtp/239.69.2.20:11274
 凤凰中文,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695
-凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156407
-凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
+凤凰资讯,http://hzzzz530.com:4022/rtp/239.69.2.19:11268
+凤凰资讯,http://xk8.top:8001/rtp/239.69.2.19:11268
+凤凰资讯,http://www.3872327.top:1225/rtp/239.69.2.19:11268
 
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
 无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 
 翡翠台,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 CCTV1,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-CCTV1,http://www.liangcl.top:8686/udp/233.50.200.130:5140
 
 CCTV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=54&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV4,http://lsa.familyds.com:8188/udp/239.77.1.163:5146
-CCTV4,http://www.liangcl.top:8686/udp/233.50.200.101:5140
 CCTV4,http://www.yahao.host:4022/udp/239.77.1.163:5146
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 
 CCTV13,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV13,http://lsa.familyds.com:8188/udp/239.253.43.196:5146
-CCTV13,http://www.liangcl.top:8686/udp/233.50.201.246:5140
 CCTV13,http://www.yahao.host:4022/udp/239.253.43.196:5146
 CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 
@@ -57,17 +53,13 @@ CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
 
 广东卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东卫视,http://www.liangcl.top:8686/udp/233.50.201.102:5140
 广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8?ysp
 
 深圳卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-深圳卫视,http://www.liangcl.top:8686/udp/233.50.201.101:5140
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.1.3:5146
 深圳卫视,http://lsa.familyds.com:8188/udp/239.77.0.130:5146
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-深圳卫视,http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8?ysp
 
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
@@ -84,17 +76,14 @@ CHC动作电影,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=67&FvSeid=1&Fsv_cty
 ⛹️体育,#genre#
 CCTV5,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=126&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5,http://lsa.familyds.com:8188/udp/239.77.0.170:5146
-CCTV5,http://www.liangcl.top:8686/udp/233.50.201.197:5140
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 CCTV5+,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV5+,http://lsa.familyds.com:8188/udp/239.77.0.87:5146
-CCTV5+,http://www.liangcl.top:8686/udp/233.50.201.220:5140
 CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 
 CCTV16,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=49&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 CCTV16,http://lsa.familyds.com:8188/udp/239.77.0.165:5146
-CCTV16,http://www.liangcl.top:8686/udp/233.50.201.192:5140
 
 广东体育,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=132&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
