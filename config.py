@@ -6,9 +6,9 @@ ip_version_priority = "ipv4"
 # 直播源URL列表
 source_urls = [
     "",
-    "https://gh-proxy.com/raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-    "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt",
+    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "",
     "",
 
@@ -61,11 +61,13 @@ announcements = [
 
 # EPG（电子节目指南）URL列表
 epg_urls = [
+    "https://epg.v1.mk/fy.xml",
     "http://epg.51zmt.top:8000/e.xml",
     "https://epg.pw/xmltv/epg_CN.xml",
     "https://epg.pw/xmltv/epg_HK.xml",
     "https://epg.pw/xmltv/epg_TW.xml"
 ]
+
 # 测速超时（秒）
 TEST_TIMEOUT = 10
 
