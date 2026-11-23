@@ -18,7 +18,7 @@ session.cookies.set("visited", "1")  # 提高拟真度
 # 下载伪 JSON 文本
 def fetch_raw_json():
     url = "http://www.xn--sss604efuw.art/jm/jiemi.php?url=http%3A%2F%2Fwww.%E9%A5%AD%E5%A4%AA%E7%A1%AC.art%2Ftv"
-    resp = session.get(url, timeout=40, allow_redirects=True)
+    resp = session.get(url, timeout=30, allow_redirects=True)
     resp.encoding = 'utf-8'
     return resp.text
 
@@ -77,7 +77,7 @@ def extract_and_save_spider(json_text):
     full_spider = match.group(1)
     spider_url = full_spider.split(";")[0]
     print(f"📥 下载 spider 文件: {spider_url}")
-    resp = session.get(spider_url, timeout=40, allow_redirects=True)
+    resp = session.get(spider_url, timeout=30, allow_redirects=True)
     with open("fan.txt", "wb") as f:
         f.write(resp.content)
     print("✅ 已保存为 fan.txt")
@@ -133,7 +133,7 @@ class CompactJSONEncoder(json.JSONEncoder):
             return json.dumps(obj, ensure_ascii=False)
         return iter([_encode(o)])
 
-def save_json(data, filename="fty.json"):
+def save_json(data, filename="tvbox_cleaned.json"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2, cls=CompactJSONEncoder)
     print(f"✅ 最终 JSON 保存为 {filename}")
