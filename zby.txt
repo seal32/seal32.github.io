@@ -153,7 +153,7 @@ CETV4,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=14&FvSeid=1&Fsv_ctype=LIVES&F
 海南卫视,http://116.199.5.51:8114/Fsv_chan_hls_se_idx=100&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 🌏外国,#genre#
-ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 News24,https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8

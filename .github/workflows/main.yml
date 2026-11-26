@@ -10,9 +10,14 @@ jobs:
     runs-on: ubuntu-latest  # 使用最新的Ubuntu运行器
     continue-on-error: true
 
+    # 强制所有 JavaScript Actions 使用 Node.js 24 运行（规避 Node 20 弃用问题）
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      TZ: Asia/Shanghai  # 设置时区为上海
+
     steps:
     - name: Checkout repository  # 检出代码库
-      uses: actions/checkout@v7
+      uses: actions/checkout@v4
 
     - name: Set up Python  # 设置Python环境
       uses: actions/setup-python@v5
@@ -32,15 +37,15 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y ffmpeg
 
-    - name: Install dependencies  # 安装demjson3
-      run: |
-        python -m pip install --upgrade pip
-        pip install demjson3
-
     - name: Install Python dependencies  # 安装Python依赖
       run: |
         python -m pip install --upgrade pip
         pip install requests aiohttp
+
+    - name: Install dependencies  # 安装demjson3
+      run: |
+        python -m pip install --upgrade pip
+        pip install demjson3
 
     - name: Run Python script  # 执行主脚本
       run: |
@@ -49,11 +54,11 @@ jobs:
 
     - name: Commit and push if changed  # 如果有更改，则提交并推送
       run: |
-        git config --local user.email "actions@163.com"
-        git config --local user.name "GitHub Action Bot"
-        git add .
-        git commit -m "Auto-update live files" || echo "No changes to commit"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/seal32/seal32.github.io.git master
-
-    env:
-      TZ: Asia/Shanghai  # 设置时区为上海
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update live files"
+          git pull --rebase
+          git push
+        fi

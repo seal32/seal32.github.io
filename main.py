@@ -238,6 +238,10 @@ def updateChannelUrlsM3U(channels, template_channels):
                                     sorted_urls_ipv4.append(url)
                                     written_urls_ipv4.add(url)
 
+                        # 限制单个频道单协议最多保留最优线路数量
+                        sorted_urls_ipv4 = sorted_urls_ipv4[:config.MAX_CHANNEL_SOURCES]
+                        sorted_urls_ipv6 = sorted_urls_ipv6[:config.MAX_CHANNEL_SOURCES]
+
                         total_urls_ipv4 = len(sorted_urls_ipv4)
                         total_urls_ipv6 = len(sorted_urls_ipv6)
 
@@ -269,7 +273,7 @@ def add_url_suffix(url, index, total_urls, ip_version):
 
 def write_to_files(f_m3u, f_txt, category, channel_name, index, new_url):
     # 写入M3U和TXT文件。
-    logo_url = f"./logo{channel_name}.png"
+    logo_url = f"./logo/logo{channel_name}.png"
     f_m3u.write(f"#EXTINF:-1 tvg-id=\"{index}\" tvg-name=\"{channel_name}\" tvg-logo=\"{logo_url}\" group-title=\"{category}\",{channel_name}\n")
     f_m3u.write(new_url + "\n")
     f_txt.write(f"{channel_name},{new_url}\n")
