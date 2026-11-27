@@ -4,7 +4,8 @@ import requests
 # 源文件 URL 与目标路径的映射
 FILES = {
     "https://github.com/qist/tvbox/raw/refs/heads/master/fty.json": "fty.json",
-    "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt": "jar/fan.txt"
+    "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt": "jar/fan.txt",
+    "https://github.com/fanmingming/live/raw/refs/heads/main/e.xml": "e.xml"
 }
 
 def download_file(url, dest_path):
