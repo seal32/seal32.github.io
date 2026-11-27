@@ -153,7 +153,7 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=51&FvSeid=1&Fsv_ctype=LIVES&Fsv
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=68&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://tv.seal32.cn/logo/金鹰卡通.png" group-title="珠江宽频",金鹰卡通
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=55&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://tv.seal32.cn/logos/安徽卫视.png" group-title="珠江宽频",安徽卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://tv.seal32.cn/logo/安徽卫视.png" group-title="珠江宽频",安徽卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=93&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://tv.seal32.cn/logo/广西卫视.png" group-title="珠江宽频",广西卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=98&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
